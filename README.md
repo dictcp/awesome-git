@@ -51,20 +51,21 @@ A curated list of amazingly awesome Git tools, resources and shiny things.
 
 * [Gitolite](http://gitolite.com/gitolite/) - A simple with fine-grained access control
 * [GitHub Enterprise](https://enterprise.github.com/) - self-hosted solution provided from GitHub
-* [Stash] - self-hosted refrom Atlassian. Good integration with JIRA and other Atlassian products
+* [Stash](https://www.atlassian.com/software/stash) - self-hosted refrom Atlassian. Good integration with JIRA and other Atlassian products
 * [GitLab CE/EE](https://gitlab.com/) - A popular open-source Git (CE) with paid support option (EE).
 * [Upsource](https://www.jetbrains.com/upsource) - recent offer from Jetbrains, a famos developer-oriented software company. Free for 10 users. Good integration with YouTrack and TeamCity
 * [GitBucket](https://github.com/takezoe/gitbucket/) - A GitHub clone powered by Scala.
 * [Gogs](http://gogs.io/) - A self-hosted Git Service written in Go.
-* [Gitorious]() acquired by GitLab
 
 ## Workflow
 *Inexpensive branching allow people*
 
+* [Pro Git - Distributed Workflows](https://git-scm.com/book/it/v2/Distributed-Git-Distributed-Workflows)
+* [Atlassian Git Tutorial - Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 * [Gitflow](http://nvie.com/posts/a-successful-git-branching-model/) -
 * [GitHub flow](http://scottchacon.com/2011/08/31/github-flow.html) - a simple branching model with a master
-* [HubFlow](https://datasift.github.io/gitflow/) -
 * [GitLab flow](https://about.gitlab.com/2014/09/29/gitlab-flow/) -
+* [Git DMZ Flow](https://gist.github.com/djspiewak/9f2f91085607a4859a66) -
 
 ## Submodule management
 
