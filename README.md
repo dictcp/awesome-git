@@ -30,9 +30,9 @@ Pull requests on interesting tools/projects/resources are welcome.
 ## Client
 *Git clients are available on every platform, from mainframe to your mobile device*
 
-* [TortoiseGit](https://tortoisegit.org/) an easy-to-use Git client on Windows. well-intrgrated with Windows Explorer.
+* [TortoiseGit](https://tortoisegit.org/) - an easy-to-use Git client on Windows. well-intrgrated with Windows Explorer.
 * [GitHub Desktop](https://desktop.github.com/) - Git Client by GitHub. works with GitHub and GitHub Enterprise seamlessly
-* [SourceTree](https://github.com/icefox/git-hooks/) Free (in-beer) GUI. Windows and Mac only
+* [SourceTree](https://github.com/icefox/git-hooks/) - free (in-beer) GUI client. Windows and Mac only
 * [Tower](http://http://www.git-tower.com/) - a popular non-free Git GUI client. Mac only
 * [SmartGit](http://www.syntevo.com/smartgit/) - a commercial comprehensive SCM client with Git, SVN, Mercurial. cross-platform (works on Windows, Mac and Linux)
 * [RabbitVCS](http://rabbitvcs.org/) - TortoiseSVN inspired graphic tool for version control systems, with Nautilus and Thunar integration
@@ -43,23 +43,23 @@ Pull requests on interesting tools/projects/resources are welcome.
 ## Repository Hosting
 *People have plenty of options to host their source code*
 
-* [GitHub](http://github.com/) the de-fact git hosting service. Perfect integration with most external services.
+* [GitHub](http://github.com/) - the de-facto git hosting service. Perfect integration with most external services.
 * [BitBucket](http://bitbucket.org/) - well-known for its free private repository (5 user max).
 * [CodePlex](https://www.codeplex.com/) - Microsoft’s free open source code hosting service with many ASP/C# OSS projects
 * [Kiln](https://www.fogcreek.com/kiln/) - paid Git repository hosting service
-* [GitLab.com](https://about.gitlab.com/gitlab-com/) - A free Git repository hosting service served by GitLab EE. Unlimited repositories and private collaborators
-* [AWS CodeCommit](https://aws.amazon.com/codecommit/) - A SaaS service provided by Amazon Web Service on high availability infrastructure
+* [GitLab.com](https://about.gitlab.com/gitlab-com/) - a free Git repository hosting service served by GitLab EE. Unlimited repositories and private collaborators
+* [AWS CodeCommit](https://aws.amazon.com/codecommit/) - a SaaS service provided by Amazon Web Service on high availability infrastructure
 
 ## Self-Hosted Repository
 *Or you can host the code yourselves*
 
-* [Gitolite](http://gitolite.com/gitolite/) - A simple with fine-grained access control
+* [Gitolite](http://gitolite.com/gitolite/) - a simple with fine-grained access control
 * [GitHub Enterprise](https://enterprise.github.com/) - self-hosted solution provided from GitHub
 * [Stash](https://www.atlassian.com/software/stash) - self-hosted refrom Atlassian. Good integration with JIRA and other Atlassian products
-* [GitLab CE/EE](https://gitlab.com/) - A popular open-source Git (CE) with paid support option (EE).
+* [GitLab CE/EE](https://gitlab.com/) - a popular open-source Git (CE) with paid support option (EE).
 * [Upsource](https://www.jetbrains.com/upsource) - recent offer from Jetbrains, a famos developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity
-* [GitBucket](https://github.com/takezoe/gitbucket/) - A GitHub clone powered by Scala.
-* [Gogs](http://gogs.io/) - A self-hosted Git Service written in Go.
+* [GitBucket](https://github.com/takezoe/gitbucket/) - a GitHub clone powered by Scala.
+* [Gogs](http://gogs.io/) - a self-hosted Git Service written in Go.
 
 ## Workflow
 *Inexpensive branching allows people adopt workflows other than the classic centralilzed workflow*
@@ -74,8 +74,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 ## Hook management
 *Git provide hooks at commit/push phrase, allowing integration with and code quality checking tool and Continuous Integration (CI)*
 
-* [pre-commit](http://pre-commit.com/) - A framework for managing and maintaining multi-language pre-commit hooks from Yelp. Extensive support for multiple programming language.
-* [Overcommit](https://github.com/brigade/overcommit/) - A extendable Git hook manager written with Ruby.
+* [pre-commit](http://pre-commit.com/) - a framework for managing and maintaining multi-language pre-commit hooks from Yelp. Extensive support for multiple programming language.
+* [Overcommit](https://github.com/brigade/overcommit/) - a extendable Git hook manager written with Ruby.
 * [git-hooks](https://github.com/icefox/git-hooks/) - tool to manage project, user, and global Git hooks
 
 ## Tools
