@@ -60,6 +60,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Upsource](https://www.jetbrains.com/upsource) - recent offer from Jetbrains, a famos developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity
 * [GitBucket](https://github.com/takezoe/gitbucket/) - a GitHub clone powered by Scala.
 * [Gogs](http://gogs.io/) - a self-hosted Git Service written in Go.
+* [GitBlit](http://gitblit.com/) Pure Java Stack for managing, view, and serving Git repositories.
 
 ## Workflow
 *Inexpensive branching allows people adopt workflows other than the classic centralilzed workflow*
