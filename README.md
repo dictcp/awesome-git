@@ -32,7 +32,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 * [TortoiseGit](https://tortoisegit.org/) - an easy-to-use Git client on Windows. well-intrgrated with Windows Explorer.
 * [GitHub Desktop](https://desktop.github.com/) - Git Client by GitHub. works with GitHub and GitHub Enterprise seamlessly
-* [SourceTree](https://github.com/icefox/git-hooks/) - free (in-beer) GUI client. Windows and Mac only
+* [SourceTree](https://www.sourcetreeapp.com/) - free (in-beer) GUI client. Windows and Mac only
 * [Tower](http://http://www.git-tower.com/) - a popular non-free Git GUI client. Mac only
 * [SmartGit](http://www.syntevo.com/smartgit/) - a commercial comprehensive SCM client with Git, SVN, Mercurial. cross-platform (works on Windows, Mac and Linux)
 * [RabbitVCS](http://rabbitvcs.org/) - TortoiseSVN inspired graphic tool for version control systems, with Nautilus and Thunar integration
