@@ -87,6 +87,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
 * [etckeeper](http://etckeeper.branchable.com/) - a collection of tools to let /etc be stored in a git repository
 * [git-extra](https://github.com/tj/git-extras) – git utilities adding useful git commands.
+
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
 
