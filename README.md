@@ -39,6 +39,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [gitg](https://wiki.gnome.org/Apps/Gitg/) - a open-source GTK+ GUI client
 * [git-cola](http://git-cola.github.io/) - a cross-platform Git GUI client
 * [SGit](https://github.com/sheimi/SGit) - Git client for Android 4.x
+* [Ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 
 ## Repository Hosting
 *People have plenty of options to host their source code*
