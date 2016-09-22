@@ -56,7 +56,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 * [Gitolite](http://gitolite.com/gitolite/) - a simple with fine-grained access control
 * [GitHub Enterprise](https://enterprise.github.com/) - self-hosted solution provided from GitHub
-* [Stash](https://www.atlassian.com/software/stash) - self-hosted refrom Atlassian. Good integration with JIRA and other Atlassian products
+* [Bitbucket Server](https://www.atlassian.com/software/bitbucket/server) - self-hosted refrom Atlassian. Good integration with JIRA and other Atlassian products
 * [GitLab CE/EE](https://gitlab.com/) - a popular open-source Git (CE) with paid support option (EE).
 * [Upsource](https://www.jetbrains.com/upsource) - recent offer from Jetbrains, a famos developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity
 * [GitBucket](https://github.com/takezoe/gitbucket/) - a GitHub clone powered by Scala.
@@ -79,6 +79,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [pre-commit](http://pre-commit.com/) - a framework for managing and maintaining multi-language pre-commit hooks from Yelp. Extensive support for multiple programming language.
 * [Overcommit](https://github.com/brigade/overcommit/) - a extendable Git hook manager written with Ruby.
 * [git-hooks](https://github.com/icefox/git-hooks/) - tool to manage project, user, and global Git hooks
+* [quickhook](https://github.com/dirk/quickhook/) - a fast, Unix'y, opinionated Git hook runner
 
 ## Tools
 *Various tools for daily operations*
