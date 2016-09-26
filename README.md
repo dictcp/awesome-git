@@ -88,7 +88,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - a simpler, faster alternative to git-filter-branch for cleansing bad data out of your Git repository history
 * [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
 * [etckeeper](http://etckeeper.branchable.com/) - a collection of tools to let /etc be stored in a git repository
-* [git-extra](https://github.com/tj/git-extras) – git utilities adding useful git commands.
+* [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands.
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
