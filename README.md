@@ -40,6 +40,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [git-cola](http://git-cola.github.io/) - a cross-platform Git GUI client
 * [SGit](https://github.com/sheimi/SGit) - Git client for Android 4.x
 * [Ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
+* [GitKraken](https://www.gitkraken.com/) - a cross Git client for Windows, Mac & Linux. Electron based. Free for commercial use and paid Pro version is available.
 
 ## Repository Hosting
 *People have plenty of options to host their source code*
@@ -50,6 +51,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Kiln](https://www.fogcreek.com/kiln/) - paid Git repository hosting service
 * [GitLab.com](https://about.gitlab.com/gitlab-com/) - a free Git repository hosting service served by GitLab EE. Unlimited repositories and private collaborators
 * [AWS CodeCommit](https://aws.amazon.com/codecommit/) - a SaaS service provided by Amazon Web Service on high availability infrastructure
+* [Codeplane](https://codeplane.com/) - a paid Git repository hosting service with no contributor limit
+* [Deveo](https://deveo.com/) - a paid repository hosting service with support for Git, Subversion, Mercurial, WebDAV
 
 ## Self-Hosted Repository
 *Or you can host the code yourselves*
@@ -61,7 +64,10 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Upsource](https://www.jetbrains.com/upsource) - recent offer from Jetbrains, a famos developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity
 * [GitBucket](https://github.com/takezoe/gitbucket/) - a GitHub clone powered by Scala.
 * [Gogs](http://gogs.io/) - a self-hosted Git Service written in Go.
-* [GitBlit](http://gitblit.com/) Pure Java Stack for managing, view, and serving Git repositories.
+* [GitBlit](http://gitblit.com/) - Pure Java Stack for managing, view, and serving Git repositories.
+* [Apache Allura](https://allura.apache.org/) - an open source implementation of project hosting platform
+* [Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software
+* [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
 
 ## Workflow
 *Inexpensive branching allows people adopt workflows other than the classic centralilzed workflow*
@@ -89,6 +95,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
 * [etckeeper](http://etckeeper.branchable.com/) - a collection of tools to let /etc be stored in a git repository
 * [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands.
+* [Gitrob](https://github.com/michenriksen/gitrob) - a command line tool to find sensitive information lingering in publicly available files on GitHub
+* [gitFS](https://www.presslabs.com/gitfs/) - a FUSE file system that fully integrates with git
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
