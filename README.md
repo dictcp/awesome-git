@@ -91,6 +91,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 *Various tools for daily operations*
 
 * [myrepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
+* [mu-repo](http://fabioz.github.io/mu-repo/) - a tool to help in dealing with multiple git repositories
+* [gr](http://mixu.net/gr/) - a tool for managing multiple git repositories
 * [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - a simpler, faster alternative to git-filter-branch for cleansing bad data out of your Git repository history
 * [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
 * [etckeeper](http://etckeeper.branchable.com/) - a collection of tools to let /etc be stored in a git repository
