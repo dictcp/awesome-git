@@ -99,6 +99,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands.
 * [Gitrob](https://github.com/michenriksen/gitrob) - a command line tool to find sensitive information lingering in publicly available files on GitHub
 * [gitFS](https://www.presslabs.com/gitfs/) - a FUSE file system that fully integrates with git
+* [ghq](https://github.com/motemen/ghq) — Organization for remote repositories
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
