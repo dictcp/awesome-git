@@ -97,6 +97,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
 * [etckeeper](http://etckeeper.branchable.com/) - a collection of tools to let /etc be stored in a git repository
 * [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands.
+* [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Another collection of useful git commands.
 * [Gitrob](https://github.com/michenriksen/gitrob) - a command line tool to find sensitive information lingering in publicly available files on GitHub
 * [gitFS](https://www.presslabs.com/gitfs/) - a FUSE file system that fully integrates with git
 * [ghq](https://github.com/motemen/ghq) — Organization for remote repositories
