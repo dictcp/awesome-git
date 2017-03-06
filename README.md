@@ -41,6 +41,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [SGit](https://github.com/sheimi/SGit) - Git client for Android 4.x
 * [Ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 * [GitKraken](https://www.gitkraken.com/) - a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
+* [GitExtensions](https://gitextensions.github.io/) - a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
 
 ## Repository Hosting
 *People have plenty of options to host their source code*
