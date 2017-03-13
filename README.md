@@ -26,6 +26,11 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - a short O'Reilly book on Git
 * [Git Real: Code School](https://www.codeschool.com/courses/git-real/) - paid training course from Code School
 * [Git Branching](http://pcottle.github.io/learnGitBranching/) - visual way to learn git branching
+* [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) - tutorial-based book by Manning Publications
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) - short book about Git
+* [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) - great series of articles about Git
+* [Git-it](https://github.com/jlord/git-it-electron) - app-tutorial on Git
+* [Git How To](githowto.com) - step by step intro
 
 ## Client
 *Git clients are available on every platform, from mainframe to your mobile device*
@@ -42,6 +47,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 * [GitKraken](https://www.gitkraken.com/) - a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
 * [GitUp](http://gitup.co) - a clean, minimal Git client. Mac only.
+* [GitExtensions](https://gitextensions.github.io/) - a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
 
 ## Repository Hosting
 *People have plenty of options to host their source code*
@@ -98,8 +104,10 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
 * [etckeeper](http://etckeeper.branchable.com/) - a collection of tools to let /etc be stored in a git repository
 * [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands.
+* [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Another collection of useful git commands.
 * [Gitrob](https://github.com/michenriksen/gitrob) - a command line tool to find sensitive information lingering in publicly available files on GitHub
 * [gitFS](https://www.presslabs.com/gitfs/) - a FUSE file system that fully integrates with git
+* [Gitless](http://gitless.com/) - an experimental version of Git that changes some of Git's underlying concepts
 * [ghq](https://github.com/motemen/ghq) — Organization for remote repositories
 
 ## Extensions
