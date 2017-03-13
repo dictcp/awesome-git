@@ -26,6 +26,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - a short O'Reilly book on Git
 * [Git Real: Code School](https://www.codeschool.com/courses/git-real/) - paid training course from Code School
 * [Git Branching](http://pcottle.github.io/learnGitBranching/) - visual way to learn git branching
+* [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) - tutorial-based book by Manning Publications
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) - short book about Git
 * [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) - great series of articles about Git
 * [Git-it](https://github.com/jlord/git-it-electron) - app-tutorial on Git
@@ -105,6 +106,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Another collection of useful git commands.
 * [Gitrob](https://github.com/michenriksen/gitrob) - a command line tool to find sensitive information lingering in publicly available files on GitHub
 * [gitFS](https://www.presslabs.com/gitfs/) - a FUSE file system that fully integrates with git
+* [Gitless](http://gitless.com/) - an experimental version of Git that changes some of Git's underlying concepts
 * [ghq](https://github.com/motemen/ghq) — Organization for remote repositories
 
 ## Extensions
