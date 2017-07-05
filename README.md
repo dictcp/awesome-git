@@ -97,6 +97,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 ## Tools
 *Various tools for daily operations*
 
+* [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - lists more than 20 git addons including all available commands
 * [myrepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
 * [mu-repo](http://fabioz.github.io/mu-repo/) - a tool to help in dealing with multiple git repositories
 * [gr](http://mixu.net/gr/) - a tool for managing multiple git repositories
