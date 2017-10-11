@@ -30,7 +30,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) - short book about Git
 * [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) - great series of articles about Git
 * [Git-it](https://github.com/jlord/git-it-electron) - app-tutorial on Git
-* [Git How To](githowto.com) - step by step intro
+* [Git How To](http://githowto.com) - step by step intro
 
 ## Client
 *Git clients are available on every platform, from mainframe to your mobile device*
