@@ -30,7 +30,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) - short book about Git
 * [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) - great series of articles about Git
 * [Git-it](https://github.com/jlord/git-it-electron) - app-tutorial on Git
-* [Git How To](githowto.com) - step by step intro
+* [Git How To](http://githowto.com) - step by step intro
 * [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Use Git LFS on an existing repository to manage large files in a better way
 
 ## Client
@@ -98,6 +98,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 ## Tools
 *Various tools for daily operations*
 
+* [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - lists more than 20 git addons including all available commands
 * [myrepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
 * [mu-repo](http://fabioz.github.io/mu-repo/) - a tool to help in dealing with multiple git repositories
 * [gr](http://mixu.net/gr/) - a tool for managing multiple git repositories
@@ -116,4 +117,5 @@ Pull requests on interesting tools/projects/resources are welcome.
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
 
 * [Git Large File Storage](https://git-lfs.github.com/) - practical solution for versioning large files. supported by GitHub
+* [Git Virtual File System or GVFS](https://github.com/Microsoft/GVFS) - solution for managing very large Git repository while maintaining speed and efficiency of most operations. in developement by Microsoft.
 * [git-annex](https://git-annex.branchable.com/) - allow managing large binaries among machines, as if operation a normal git repository. possible to creates a synchronised folder with [git-annex assistant](https://git-annex.branchable.com/assistant/).
