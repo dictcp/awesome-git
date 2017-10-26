@@ -50,6 +50,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [GitKraken](https://www.gitkraken.com/) - a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
 * [GitUp](http://gitup.co) - a clean, minimal Git client. Mac only.
 * [GitExtensions](https://gitextensions.github.io/) - a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
+* [WorkingCopy](https://workingcopyapp.com) - a powerful Git client for iOS. Free with in-app purchase to unlock the ability to push commits.
 
 ## Repository Hosting
 *People have plenty of options to host their source code*
