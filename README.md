@@ -116,6 +116,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [gitFS](https://www.presslabs.com/gitfs/) - a FUSE file system that fully integrates with git
 * [Gitless](http://gitless.com/) - an experimental version of Git that changes some of Git's underlying concepts
 * [ghq](https://github.com/motemen/ghq) — Organization for remote repositories
+* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
