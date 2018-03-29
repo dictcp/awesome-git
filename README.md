@@ -18,7 +18,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 ## Tutorial
 *There are tons of learning material on the Web*
 
-* [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) - a guide about what to do when things go wrong
+* [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) - guide about what to do when things go wrong
 * [Try Git](https://try.github.io/) - learn Git in 15 minutes with pseudo-terminal interface
 * [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/) - comprehensive tutorial on Git
 * [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) - all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
