@@ -37,35 +37,35 @@
 * [Explain Git with D3](http://onlywei.github.io/explain-git-with-d3/) - 使用 D3.js 可视化库来展现几个基本的 Git 概念：commit，branch，checkout，reset，revert，merge，rebase，fetch，pull，push，tag
 * [Making Sense of Git – A Visual Perspective](https://appendto.com/2015/06/making-sense-of-git-a-visual-perspective/) - 从时间轴和层级的角度来看 Git 命令
 
-## Client
-*Git clients are available on every platform, from mainframe to your mobile device*
+## 客户端
+*Git 客户端被各大电脑及手机平台广泛支持着*
 
-* [TortoiseGit](https://tortoisegit.org/) - an easy-to-use Git client on Windows. well-integrated with Windows Explorer.
-* [GitHub Desktop](https://desktop.github.com/) - Git Client by GitHub. works with GitHub and GitHub Enterprise seamlessly
-* [SourceTree](https://www.sourcetreeapp.com/) - free (in-beer) GUI client. Windows and Mac only
-* [Tower](http://www.git-tower.com/) - a popular non-free Git GUI client. Mac and Windows
-* [SmartGit](http://www.syntevo.com/smartgit/) - a commercial comprehensive SCM client with Git, SVN, Mercurial. cross-platform (works on Windows, Mac and Linux)
-* [RabbitVCS](http://rabbitvcs.org/) - TortoiseSVN inspired graphic tool for version control systems, with Nautilus and Thunar integration
-* [gitg](https://wiki.gnome.org/Apps/Gitg/) - a open-source GTK+ GUI client
-* [git-cola](http://git-cola.github.io/) - a cross-platform Git GUI client
-* [SGit](https://github.com/sheimi/SGit) - Git client for Android 4.x
-* [Ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
-* [GitKraken](https://www.gitkraken.com/) - a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
-* [GitUp](http://gitup.co) - a clean, minimal Git client. Mac only.
-* [GitExtensions](https://gitextensions.github.io/) - a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
-* [WorkingCopy](https://workingcopyapp.com) - a powerful Git client for iOS. Free with in-app purchase to unlock the ability to push commits.
+* [TortoiseGit](https://tortoisegit.org/) - Windows 平台上的一个易于使用的 Git 客户端，并被完美集成在 Windows 资源管理器上。
+* [GitHub Desktop](https://desktop.github.com/) - Github 官方出品的 Git 客户端，可与 GitHub 和 GitHub Enterprise 无缝协作
+* [SourceTree](https://www.sourcetreeapp.com/) - 较为知名的免费 Git 客户端，只能运行在 Windows 和 Mac 平台上
+* [Tower](http://www.git-tower.com/) - 较为知名的收费 Git 客户端，只能运行在 Windows 和 Mac 平台上
+* [SmartGit](http://www.syntevo.com/smartgit/) - 一个商业的 SCM 跨平台客户端，完美支持 Git，SVN 和 Mercurial，可运行在 Windows，Mac 和 Linux 上
+* [RabbitVCS](http://rabbitvcs.org/) - TortoiseSVN 版本控制系统的图形工具，集成了 Nautilus 和 Thunar（译者注：这里的翻译意思尚不明确）
+* [gitg](https://wiki.gnome.org/Apps/Gitg/) - 一个开源的 GTK+ Git 客户端
+* [git-cola](http://git-cola.github.io/) - 一个跨平台的 Git 客户端
+* [SGit](https://github.com/sheimi/SGit) - 为 Android 4.x 量身定制的 Git 客户端
+* [Ungit](https://github.com/FredrikNoren/ungit) - 使用最便捷的方式学习 Git，你可以在任何地方任何环境使用它（译者注：该项目包括 npm 安装以及 Atom、VS Code 的插件形式）
+* [GitKraken](https://www.gitkraken.com/) - 一个基于 Electron 的跨平台 Git 客户端，同时支持免费版和高级付费版
+* [GitUp](http://gitup.co) - 一个干净、简介的 Git 客户端，只能运行在 MacOS 系统上
+* [GitExtensions](https://gitextensions.github.io/) - 这是一个 Visual Studio 2010-2015 的拓展插件，和一个独立的 Git 存储库工具
+* [WorkingCopy](https://workingcopyapp.com) - IOS 平台上的一个强大的 Git 客户端，除需内置付费解锁 push 功能外其它功能均免费使用
 
-## Repository Hosting
-*People have plenty of options to host their source code*
+## 代码托管平台
+*我们拥有很多不同的选择来托管项目的源代码*
 
-* [GitHub](http://github.com/) - the de-facto git hosting service. Perfect integration with most external services.
-* [BitBucket](http://bitbucket.org/) - well-known for its free private repository (5 user max).
-* [CodePlex](https://www.codeplex.com/) - Microsoft’s free open source code hosting service with many ASP/C# OSS projects
-* [Kiln](https://www.fogcreek.com/kiln/) - paid Git repository hosting service
-* [GitLab.com](https://about.gitlab.com/gitlab-com/) - a free Git repository hosting service served by GitLab EE. Unlimited repositories and private collaborators
-* [AWS CodeCommit](https://aws.amazon.com/codecommit/) - a SaaS service provided by Amazon Web Service on high availability infrastructure
-* [Codeplane](https://codeplane.com/) - a paid Git repository hosting service with no contributor limit
-* [Deveo](https://deveo.com/) - a paid repository hosting service with support for Git, Subversion, Mercurial, WebDAV
+* [GitHub](http://github.com/) - 事实上的首选 Git 托管平台，与大多数外部服务完美整合
+* [BitBucket](http://bitbucket.org/) - 因在其中可建立免费的私人仓库而闻名（最多支持 5 人协作）
+* [CodePlex](https://www.codeplex.com/) - 微软的项目托管平台，上面有很多 SP/C# OSS 项目
+* [Kiln](https://www.fogcreek.com/kiln/) - 付费的 Git 仓库托管平台
+* [GitLab.com](https://about.gitlab.com/gitlab-com/) - 由 GitLab EE 提供服务的免费 Git 仓库托管服务，每个人都可以建立无限的仓库并和任意数量的合作者协作
+* [AWS CodeCommit](https://aws.amazon.com/codecommit/) - Amazon Web Service 在其高可用性基础设施上提供的 SaaS 服务，轻松地托管安全且高度可扩展的私有 Git 仓库
+* [Codeplane](https://codeplane.com/) - 一个没有贡献者数量限制的付费代码托管平台
+* [Deveo](https://deveo.com/) - 一个同时支持 Git, Subversion, Mercurial 和 WebDAV 的付费代码托管平台
 
 ## Self-Hosted Repository
 *Or you can host the code yourselves*
