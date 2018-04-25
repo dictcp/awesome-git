@@ -1,4 +1,7 @@
 # Awesome Git
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](./README_zh-Hans.md)
+
 收集一些有关 Git 的工具、资源清单列表。
 
 ## 加入我们
