@@ -55,7 +55,7 @@
 * [GitExtensions](https://gitextensions.github.io/) - 这是一个 Visual Studio 2010-2015 的拓展插件，和一个独立的 Git 存储库工具
 * [WorkingCopy](https://workingcopyapp.com) - IOS 平台上的一个强大的 Git 客户端，除需内置付费解锁 push 功能外其它功能均免费使用
 
-## 代码托管平台
+## 第三方代码托管平台
 *我们拥有很多不同的选择来托管项目的源代码*
 
 * [GitHub](http://github.com/) - 事实上的首选 Git 托管平台，与大多数外部服务完美整合
@@ -67,28 +67,28 @@
 * [Codeplane](https://codeplane.com/) - 一个没有贡献者数量限制的付费代码托管平台
 * [Deveo](https://deveo.com/) - 一个同时支持 Git, Subversion, Mercurial 和 WebDAV 的付费代码托管平台
 
-## Self-Hosted Repository
-*Or you can host the code yourselves*
+## 自建代码托管平台
+*或许你需要使用自己搭建一套代码托管服务平台*
 
-* [Gitolite](http://gitolite.com/gitolite/) - a simple with fine-grained access control
-* [GitHub Enterprise](https://enterprise.github.com/) - self-hosted solution provided from GitHub
-* [Bitbucket Server](https://www.atlassian.com/software/bitbucket/server) - self-hosted refrom Atlassian. Good integration with JIRA and other Atlassian products
-* [GitLab CE/EE](https://gitlab.com/) - a popular open-source Git (CE) with paid support option (EE).
-* [Upsource](https://www.jetbrains.com/upsource) - recent offer from Jetbrains, a famos developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity
-* [GitBucket](https://github.com/takezoe/gitbucket/) - a GitHub clone powered by Scala.
-* [Gogs](http://gogs.io/) - a self-hosted Git Service written in Go.
-* [GitBlit](http://gitblit.com/) - Pure Java Stack for managing, view, and serving Git repositories.
-* [Apache Allura](https://allura.apache.org/) - an open source implementation of project hosting platform
-* [Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software
-* [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
+* [Gitolite](http://gitolite.com/gitolite/) - 拥有细粒度访问控制机制的简易托管平台
+* [GitHub Enterprise](https://enterprise.github.com/) - Github 提供的自建代码托管平台解决方案
+* [Bitbucket Server](https://www.atlassian.com/software/bitbucket/server) - Atlassian 提供的自建代码托管平台，与 JIRA 和其他 Atlassian 产品良好集成
+* [GitLab CE/EE](https://gitlab.com/) - 一个受欢迎的 Git 自建托管平台，提供 CE 免费版和 EE 付费版
+* [Upsource](https://www.jetbrains.com/upsource) - Jetbrains 旗下托管服务平台，10 个协作者以内免费使用，与 YouTrack 和 TeamCity 良好的整合
+* [GitBucket](https://github.com/takezoe/gitbucket/) - 一个仿照 Github，使用 Scala 编写的自建代码托管平台
+* [Gogs](http://gogs.io/) - 一个使用 GO 语言编写的自建代码托管平台
+* [GitBlit](http://gitblit.com/) - 用于管理，查看和服务 Git 仓库的纯 Java 堆栈
+* [Apache Allura](https://allura.apache.org/) - 一个代码托管服务的开源实现
+* [Phabricator](https://www.phacility.com/) - 一整套强大的 Git 工具来帮助公司构建更高质量的软件
+* [RhodeCode CE/EE](https://rhodecode.com/) - 一个提供企业级源代码管理的平台
 
-## Workflow
-*Inexpensive branching allows people adopt workflows other than the classic centralilzed workflow*
+## Git 工作流
+*使用廉价的分支策略可以让人们采用除经典集中式工作流程以外的工作流程*
 
 * [Pro Git - Distributed Workflows](https://git-scm.com/book/it/v2/Distributed-Git-Distributed-Workflows)
 * [Atlassian Git Tutorial - Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-* [Gitflow](http://nvie.com/posts/a-successful-git-branching-model/) - the most well-known Git workflow model
-* [GitHub flow](http://scottchacon.com/2011/08/31/github-flow.html) - a simple branching model with a single master
+* [Gitflow](http://nvie.com/posts/a-successful-git-branching-model/) - 最知名的 Git 工作流
+* [GitHub flow](http://scottchacon.com/2011/08/31/github-flow.html) - 一个只需要 master 分支的简易 Git 工作流
 * [GitLab flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
 * [Git DMZ Flow](https://gist.github.com/djspiewak/9f2f91085607a4859a66)
 
