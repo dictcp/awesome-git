@@ -92,38 +92,38 @@
 * [GitLab flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
 * [Git DMZ Flow](https://gist.github.com/djspiewak/9f2f91085607a4859a66)
 
-## Hook management
-*Git provide hooks at commit/push phrase, allowing integration with and code quality checking tool and Continuous Integration (CI)*
+## Git 钩子管理策略
+*Git 在提交/推送短语中提供挂钩，允许其与代码质量检查工具和持续集成（CI）集成*
 
-* [pre-commit](http://pre-commit.com/) - a framework for managing and maintaining multi-language pre-commit hooks from Yelp. Extensive support for multiple programming language.
-* [Overcommit](https://github.com/brigade/overcommit/) - a extendable Git hook manager written with Ruby.
-* [git-hooks](https://github.com/icefox/git-hooks/) - tool to manage project, user, and global Git hooks
-* [quickhook](https://github.com/dirk/quickhook/) - a fast, Unix'y, opinionated Git hook runner
-* [husky](https://github.com/typicode/husky) - Git hooks for Node.js, manage your hooks from your package.json
-* more on https://githooks.com/
+* [pre-commit](http://pre-commit.com/) - 一个用于管理和维护的多语言预提交钩子的框架，由 Yelp 团队打造，广泛支持多种编程语言
+* [Overcommit](https://github.com/brigade/overcommit/) - 一个用 Ruby 编写的可扩展 Git 钩子管理器
+* [git-hooks](https://github.com/icefox/git-hooks/) - 一个管理项目、用户和全局 Git 钩子的工具
+* [quickhook](https://github.com/dirk/quickhook/) - 一个自称比 Git Hooks 更快的钩子库
+* [husky](https://github.com/typicode/husky) - 为 Node.js 打造的 Git 钩子，可在 package.json 中进行配置
+* 更多资源可参考 https://githooks.com/
 
-## Tools
-*Various tools for daily operations*
+## 工具
+*这里有各种日常 Git 操作工具*
 
-* [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - lists more than 20 git addons including all available commands
-* [myrepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
-* [mu-repo](http://fabioz.github.io/mu-repo/) - a tool to help in dealing with multiple git repositories
-* [gr](http://mixu.net/gr/) - a tool for managing multiple git repositories
-* [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - a simpler, faster alternative to git-filter-branch for cleansing bad data out of your Git repository history
-* [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
-* [etckeeper](http://etckeeper.branchable.com/) - a collection of tools to let /etc be stored in a git repository
-* [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands.
-* [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Another collection of useful git commands.
-* [git-follow](https://github.com/nickolasburr/git-follow) - a tool for following lifetime changes of a file throughout the history of a Git repository.
-* [Gitrob](https://github.com/michenriksen/gitrob) - a command line tool to find sensitive information lingering in publicly available files on GitHub
-* [gitFS](https://www.presslabs.com/gitfs/) - a FUSE file system that fully integrates with git
-* [Gitless](http://gitless.com/) - an experimental version of Git that changes some of Git's underlying concepts
-* [ghq](https://github.com/motemen/ghq) — Organization for remote repositories
-* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
+* [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - 这里列出了超过 20 个 Git 插件，包括所有可用命令
+* [myrepos](https://myrepos.branchable.com/) - 一个管理多个版本控制库的工具
+* [mu-repo](http://fabioz.github.io/mu-repo/) - 一个管理多个 Git 仓库的工具
+* [gr](http://mixu.net/gr/) - 一个管理多个 Git 仓库的工具
+* [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - 一个更简单、更快捷的替代 git-filter-branch 的方法库，用于清理 Git 存储库历史记录中的错误数据
+* [GitIgnore Collection](https://github.com/github/gitignore) - 该项目为各种编程语言收集其专属的 .gitignore 文件
+* [etckeeper](http://etckeeper.branchable.com/) - 一个让 /etc 存储在 Git 仓库中的工具集合
+* [git-extras](https://github.com/tj/git-extras) – 集成各种常见 Git 命令的命令行工具集
+* [git-extra-commands](https://github.com/unixorn/git-extra-commands) - 另一个有用的 Git 命令工具集
+* [git-follow](https://github.com/nickolasburr/git-follow) - 一个用于跟踪整个 Git 仓库历史记录中文件生命周期变化的工具
+* [Gitrob](https://github.com/michenriksen/gitrob) - 一个用于查找 GitHub 上公开可用文件中存在的敏感信息的命令行工具
+* [gitFS](https://www.presslabs.com/gitfs/) - 与 Git 完全集成的 FUSE 文件系统
+* [Gitless](http://gitless.com/) - Git 的实验版本，其改变了 Git 的一些基本概念
+* [ghq](https://github.com/motemen/ghq) — 便捷的管理远程仓库
+* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - 为 Git 用户提供丰富而又有趣的 bash 提示
 
-## Extensions
-*Git is designed for source control management. but people extend the idea and push version control to everywhere*
+## 拓展
+*Git 专为源代码管理而诞生，但是人们扩展了这个想法，并将版本控制推向了更多的领域*
 
-* [Git Large File Storage](https://git-lfs.github.com/) - practical solution for versioning large files. supported by GitHub
-* [Git Virtual File System or GVFS](https://github.com/Microsoft/GVFS) - solution for managing very large Git repository while maintaining speed and efficiency of most operations. in developement by Microsoft.
-* [git-annex](https://git-annex.branchable.com/) - allow managing large binaries among machines, as if operation a normal git repository. possible to creates a synchronised folder with [git-annex assistant](https://git-annex.branchable.com/assistant/).
+* [Git Large File Storage](https://git-lfs.github.com/) - 由 GitHub 支持的大文件版本化实用解决方案
+* [Git Virtual File System or GVFS](https://github.com/Microsoft/GVFS) - 以管理非常大的 Git 存储库，同时保持大多数操作的速度和效率的解决方案，由微软推进
+* [git-annex](https://git-annex.branchable.com/) - 可以通过 [git-annex assistant](https://git-annex.branchable.com/assistant/) 创建一个同步文件夹，来像操作一个正常的 Git 仓库一样来管理机器上的大型二进制文件
