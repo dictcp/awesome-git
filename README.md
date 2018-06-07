@@ -36,6 +36,9 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Use Git LFS on an existing repository to manage large files in a better way
 * [Explain Git with D3](http://onlywei.github.io/explain-git-with-d3/) - Visualized few basic Git concepts using D3.js: commit, branch, checkout, reset, revert, merge, rebase, fetch, pull, push, tag
 * [Making Sense of Git – A Visual Perspective](https://appendto.com/2015/06/making-sense-of-git-a-visual-perspective/) - Git from a timeline and level perspective and git commands cheatsheet grouped by functionality
+* [Git & Git-Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
+* [Git Tips](https://github.com/git-tips/tips)
+
 
 ## Client
 *Git clients are available on every platform, from mainframe to your mobile device*
@@ -54,11 +57,16 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [GitUp](http://gitup.co) - a clean, minimal Git client. Mac only.
 * [GitExtensions](https://gitextensions.github.io/) - a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
 * [WorkingCopy](https://workingcopyapp.com) - a powerful Git client for iOS. Free with in-app purchase to unlock the ability to push commits.
+* [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the basic `git` CLI
+
 
 ## Repository Hosting
 *People have plenty of options to host their source code*
 
 * [GitHub](http://github.com/) - the de-facto git hosting service. Perfect integration with most external services.
+	* [Awesome GitHub](https://github.com/phillipadsmith/awesome-github) - Resources & Learning for GitHub
+		* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+		* [GitHub Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 * [BitBucket](http://bitbucket.org/) - well-known for its free private repository (5 user max).
 * [CodePlex](https://www.codeplex.com/) - Microsoft’s free open source code hosting service with many ASP/C# OSS projects
 * [Kiln](https://www.fogcreek.com/kiln/) - paid Git repository hosting service
