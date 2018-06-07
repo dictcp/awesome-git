@@ -23,7 +23,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/) - comprehensive tutorial on Git
 * [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) - all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
 * [Learn Version Control with Git](https://www.git-tower.com/learn/) - freemium ebook from fournova Software (makers for Tower), associated with paid video course
-* [Pro Git](https://git-scm.com/book/) - free Git book (CC BY-NC-SA 3.0)
+* [Pro Git](https://git-scm.com/book/) - free Git book, also available on paper (CC BY-NC-SA 3.0)
 * [The Git Community Book](https://schacon.github.io/gitbook/) - book built by dozens of people in the Git community
 * [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - a short O'Reilly book on Git
 * [Git Real: Code School](https://www.codeschool.com/courses/git-real/) - paid training course from Code School
@@ -31,14 +31,19 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) - tutorial-based book by Manning Publications
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) - short book about Git
 * [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) - great series of articles about Git
-* [Git-it](https://github.com/jlord/git-it-electron) - app-tutorial on Git
+* [Git-It](https://github.com/jlord/git-it-electron) - Interative Tutorial App that runs on your Desktop!
 * [Git How To](http://githowto.com) - step by step intro
 * [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Use Git LFS on an existing repository to manage large files in a better way
 * [Explain Git with D3](http://onlywei.github.io/explain-git-with-d3/) - Visualized few basic Git concepts using D3.js: commit, branch, checkout, reset, revert, merge, rebase, fetch, pull, push, tag
 * [Making Sense of Git – A Visual Perspective](https://appendto.com/2015/06/making-sense-of-git-a-visual-perspective/) - Git from a timeline and level perspective and git commands cheatsheet grouped by functionality
 * [Git & Git-Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 * [Git Tips](https://github.com/git-tips/tips)
-
+* [Interactive/Contextual/Visual Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html)
+* [The 'Git Pretty' Flow-Chart](http://justinhileman.info/article/git-pretty/git-pretty.png) - How to Recover from a Mess
+* [Software Carpentry: Git Lessons](https://software-carpentry.org/lessons/)
+* [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html) - GitHub Cofounder's Narrative-style Intro to Git Concepts
+* [CodeBasicsHub: Git Video Tutorials](http://codebasicshub.com/tutorial/git-github/what-is-git)
+* [Intermediate Git](http://www.columbia.edu/~zjn2101/intermediate-git/#1) - lower-level, more structural explanation of git concepts
 
 ## Client
 *Git clients are available on every platform, from mainframe to your mobile device*
