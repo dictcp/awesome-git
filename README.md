@@ -135,6 +135,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [ghq](https://github.com/motemen/ghq) — Organization for remote repositories
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 * [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - a set of tools for parsing [conventional commit](https://conventionalcommits.org/) messages from git histories
+* [gsex](https://github.com/therealklanni/gsex) - g(it) s(tash) ex(plorer) - interactive git stash
+* [gdex](https://github.com/therealklanni/gdex) - g(it) d(iff) ex(plorer) - interactive diff (branch compare)
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
