@@ -137,6 +137,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - a set of tools for parsing [conventional commit](https://conventionalcommits.org/) messages from git histories
 * [gsex](https://github.com/therealklanni/gsex) - g(it) s(tash) ex(plorer) - interactive git stash
 * [gdex](https://github.com/therealklanni/gdex) - g(it) d(iff) ex(plorer) - interactive diff (branch compare)
+* [glex](https://github.com/therealklanni/glex) - g(it) l(og) ex(plorer) - interactive git log
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
