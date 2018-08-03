@@ -6,7 +6,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 ## Table of Contents
 - [Awesome Git](#awesome-git)
-	- [Tutorial](#tutorial)
+  - [Tutorial](#tutorial)
+  - [Style Guide](#style-guide)
   - [Client](#client)
   - [Repository Hosting](#repository-hosting)
   - [Self-Hosted Repository](#self-hosted-repository)
@@ -44,6 +45,11 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html) - GitHub Cofounder's Narrative-style Intro to Git Concepts
 * [CodeBasicsHub: Git Video Tutorials](http://codebasicshub.com/tutorial/git-github/what-is-git)
 * [Intermediate Git](http://www.columbia.edu/~zjn2101/intermediate-git/#1) - lower-level, more structural explanation of git concepts
+
+## Style Guide
+*Style guide when you work with git*
+
+* [Udacity Nanodegree Style Guide](https://udacity.github.io/git-styleguide/index.html)
 
 ## Client
 *Git clients are available on every platform, from mainframe to your mobile device*
