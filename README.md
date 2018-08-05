@@ -90,6 +90,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Upsource](https://www.jetbrains.com/upsource) - recent offer from Jetbrains, a famos developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity
 * [GitBucket](https://github.com/takezoe/gitbucket/) - a GitHub clone powered by Scala.
 * [Gogs](http://gogs.io/) - a self-hosted Git Service written in Go.
+* [Gitea](https://gitea.io/) - a community managed fork of Gogs, lightweight code hosting solution written in Go.
 * [GitBlit](http://gitblit.com/) - Pure Java Stack for managing, view, and serving Git repositories.
 * [Apache Allura](https://allura.apache.org/) - an open source implementation of project hosting platform
 * [Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software
