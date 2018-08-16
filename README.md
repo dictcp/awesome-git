@@ -73,11 +73,9 @@ Pull requests on interesting tools/projects/resources are welcome.
 		* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 		* [GitHub Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 * [BitBucket](http://bitbucket.org/) - well-known for its free private repository (5 user max).
-* [CodePlex](https://www.codeplex.com/) - Microsoft’s free open source code hosting service with many ASP/C# OSS projects
 * [Kiln](https://www.fogcreek.com/kiln/) - paid Git repository hosting service
 * [GitLab.com](https://about.gitlab.com/gitlab-com/) - a free Git repository hosting service served by GitLab EE. Unlimited repositories and private collaborators
 * [AWS CodeCommit](https://aws.amazon.com/codecommit/) - a SaaS service provided by Amazon Web Service on high availability infrastructure
-* [Codeplane](https://codeplane.com/) - a paid Git repository hosting service with no contributor limit
 * [Deveo](https://deveo.com/) - a paid repository hosting service with support for Git, Subversion, Mercurial, WebDAV
 
 ## Self-Hosted Repository
