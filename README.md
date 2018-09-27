@@ -85,7 +85,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [GitHub Enterprise](https://enterprise.github.com/) - self-hosted solution provided from GitHub
 * [Bitbucket Server](https://www.atlassian.com/software/bitbucket/server) - self-hosted refrom Atlassian. Good integration with JIRA and other Atlassian products
 * [GitLab CE/EE](https://gitlab.com/) - a popular open-source Git (CE) with paid support option (EE).
-* [Upsource](https://www.jetbrains.com/upsource) - recent offer from Jetbrains, a famos developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity
+* [Upsource](https://www.jetbrains.com/upsource) - recent offer from Jetbrains, a famous developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity
 * [GitBucket](https://github.com/takezoe/gitbucket/) - a GitHub clone powered by Scala.
 * [Gogs](http://gogs.io/) - a self-hosted Git Service written in Go.
 * [Gitea](https://gitea.io/) - a community managed fork of Gogs, lightweight code hosting solution written in Go.
