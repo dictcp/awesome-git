@@ -25,7 +25,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Learn Version Control with Git](https://www.git-tower.com/learn/) - freemium ebook from fournova Software (makers for Tower), associated with paid video course
 * [Pro Git](https://git-scm.com/book/) - free Git book, also available on paper (CC BY-NC-SA 3.0)
 * [The Git Community Book](https://schacon.github.io/gitbook/) - book built by dozens of people in the Git community
-* [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - a short O'Reilly book on Git
+* [Git Pocket Guide](http://shop.oreilly.com/product/0636920024972) - a short O'Reilly book on Git
 * [Git Real: Code School](https://www.codeschool.com/courses/git-real/) - paid training course from Code School
 * [Git Branching](http://pcottle.github.io/learnGitBranching/) - visual way to learn git branching
 * [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) - tutorial-based book by Manning Publications
