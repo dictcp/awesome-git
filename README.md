@@ -93,6 +93,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Apache Allura](https://allura.apache.org/) - an open source implementation of project hosting platform
 * [Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software
 * [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
+* [Pagure](https://pagure.io/pagure) - a flask based git forge used to host [the Fedora Project sources](https://src.fedoraproject.org/).
 
 ## Workflow
 *Inexpensive branching allows people adopt workflows other than the classic centralilzed workflow*
