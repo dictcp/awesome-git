@@ -24,6 +24,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) - all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
 * [Learn Version Control with Git](https://www.git-tower.com/learn/) - freemium ebook from fournova Software (makers for Tower), associated with paid video course
 * [Pro Git](https://git-scm.com/book/) - free Git book, also available on paper (CC BY-NC-SA 3.0)
+* [Learn how to use Git](https://www.deployhq.com/git) - free tutorials and resources to help you learn the basics of Git
 * [The Git Community Book](https://schacon.github.io/gitbook/) - book built by dozens of people in the Git community
 * [Git Pocket Guide](http://shop.oreilly.com/product/0636920024972) - a short O'Reilly book on Git
 * [Git Real: Code School](https://www.codeschool.com/courses/git-real/) - paid training course from Code School
