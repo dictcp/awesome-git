@@ -63,6 +63,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [GitExtensions](https://gitextensions.github.io/) - a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
 * [WorkingCopy](https://workingcopyapp.com) - a powerful Git client for iOS. Free with in-app purchase to unlock the ability to push commits.
 * [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the basic `git` CLI
+* [Fork](https://git-fork.com) - An awesome and free git client for macOS and Windows
 
 
 ## Repository Hosting
