@@ -44,6 +44,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html) - GitHub Cofounder's Narrative-style Intro to Git Concepts
 * [CodeBasicsHub: Git Video Tutorials](http://codebasicshub.com/tutorial/git-github/what-is-git)
 * [Intermediate Git](http://www.columbia.edu/~zjn2101/intermediate-git/#1) - lower-level, more structural explanation of git concepts
+* [On undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm/fixup.html) - fairly comprehensive guide to recovering from what you did not mean to do when using git
 
 ## Client
 *Git clients are available on every platform, from mainframe to your mobile device*
