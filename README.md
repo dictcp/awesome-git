@@ -6,7 +6,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 ## Table of Contents
 - [Awesome Git](#awesome-git)
-	- [Tutorial](#tutorial)
+  - [Tutorial](#tutorial)
+  - [Style Guide](#style-guide)
   - [Client](#client)
   - [Repository Hosting](#repository-hosting)
   - [Self-Hosted Repository](#self-hosted-repository)
@@ -47,6 +48,11 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Git School Dude](https://www.youtube.com/c/DanGitschoolDude) - It's a YouTube channel with a lot of great git videos. It covers everything from the basics to advanced Git topics. 
 * [A Git Choose Your Own Adventure](http://sethrobertson.github.io/GitFixUm/fixup.html) - I never found a git tutorial I didn't understand while doing it. Just sometimes those tutoars didn't line up very well with my actual work. This git help in the form of a choose your own adventure was a life saver when I was fisrt starting out.
 * [On undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm/fixup.html) - fairly comprehensive guide to recovering from what you did not mean to do when using git
+
+## Style Guide
+*Style guide when you work with git*
+
+* [Udacity Nanodegree Style Guide](https://udacity.github.io/git-styleguide/index.html)
 
 ## Client
 *Git clients are available on every platform, from mainframe to your mobile device*
