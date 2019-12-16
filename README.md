@@ -143,6 +143,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [ghq](https://github.com/motemen/ghq) — Organization for remote repositories
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 * [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - a set of tools for parsing [conventional commit](https://conventionalcommits.org/) messages from git histories
+- [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
