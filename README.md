@@ -6,7 +6,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 ## Table of Contents
 - [Awesome Git](#awesome-git)
-	- [Tutorial](#tutorial)
+  - [Tutorial](#tutorial)
+  - [Style Guide](#style-guide)
   - [Client](#client)
   - [Repository Hosting](#repository-hosting)
   - [Self-Hosted Repository](#self-hosted-repository)
@@ -24,6 +25,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) - all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
 * [Learn Version Control with Git](https://www.git-tower.com/learn/) - freemium ebook from fournova Software (makers for Tower), associated with paid video course
 * [Pro Git](https://git-scm.com/book/) - free Git book, also available on paper (CC BY-NC-SA 3.0)
+* [Learn how to use Git](https://www.deployhq.com/git) - free tutorials and resources to help you learn the basics of Git
 * [The Git Community Book](https://schacon.github.io/gitbook/) - book built by dozens of people in the Git community
 * [Git Pocket Guide](http://shop.oreilly.com/product/0636920024972) - a short O'Reilly book on Git
 * [Git Real: Code School](https://www.codeschool.com/courses/git-real/) - paid training course from Code School
@@ -45,6 +47,14 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [CodeBasicsHub: Git Video Tutorials](http://codebasicshub.com/tutorial/git-github/what-is-git)
 * [Intermediate Git](http://www.columbia.edu/~zjn2101/intermediate-git/#1) - lower-level, more structural explanation of git concepts
 * [Fork and Pull Request Workflow](https://github.com/susam/gitpr) - Very nicely explained, simple and crisp way of understanding git fork and pull request workflow.
+* [Git School Dude](https://www.youtube.com/c/DanGitschoolDude) - It's a YouTube channel with a lot of great git videos. It covers everything from the basics to advanced Git topics. 
+* [A Git Choose Your Own Adventure](http://sethrobertson.github.io/GitFixUm/fixup.html) - I never found a git tutorial I didn't understand while doing it. Just sometimes those tutoars didn't line up very well with my actual work. This git help in the form of a choose your own adventure was a life saver when I was fisrt starting out.
+* [On undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm/fixup.html) - fairly comprehensive guide to recovering from what you did not mean to do when using git
+
+## Style Guide
+*Style guide when you work with git*
+
+* [Udacity Nanodegree Style Guide](https://udacity.github.io/git-styleguide/index.html)
 
 ## Client
 *Git clients are available on every platform, from mainframe to your mobile device*
@@ -64,6 +74,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [GitExtensions](https://gitextensions.github.io/) - a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
 * [WorkingCopy](https://workingcopyapp.com) - a powerful Git client for iOS. Free with in-app purchase to unlock the ability to push commits.
 * [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the basic `git` CLI
+* [Fork](https://git-fork.com) - An awesome and free git client for macOS and Windows
 
 
 ## Repository Hosting
@@ -104,6 +115,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [GitHub flow](http://scottchacon.com/2011/08/31/github-flow.html) - a simple branching model with a single master
 * [GitLab flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
 * [Git DMZ Flow](https://gist.github.com/djspiewak/9f2f91085607a4859a66)
+* [Aoneflow](https://www.alibabacloud.com/blog/how-do-we-manage-code-branches-at-alibaba_593834) - an interesting branch model which delays the final merge to production branch, adopted by Alibaba. more article (in Chinese text) at [1](https://segmentfault.com/a/1190000016373314), [2](https://yq.aliyun.com/articles/573549)
 
 ## Hook management
 *Git provide hooks at commit/push phrase, allowing integration with and code quality checking tool and Continuous Integration (CI)*
@@ -134,6 +146,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [ghq](https://github.com/motemen/ghq) — Organization for remote repositories
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 * [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - a set of tools for parsing [conventional commit](https://conventionalcommits.org/) messages from git histories
+- [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
