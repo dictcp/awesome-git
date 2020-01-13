@@ -33,7 +33,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) - tutorial-based book by Manning Publications
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) - short book about Git
 * [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) - great series of articles about Git
-* [Git-It](https://github.com/jlord/git-it-electron) - Interative Tutorial App that runs on your Desktop!
+* [Git-It](https://github.com/jlord/git-it-electron) - Interactive Tutorial App that runs on your Desktop!
 * [Git How To](http://githowto.com) - step by step intro
 * [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Use Git LFS on an existing repository to manage large files in a better way
 * [Explain Git with D3](http://onlywei.github.io/explain-git-with-d3/) - Visualized few basic Git concepts using D3.js: commit, branch, checkout, reset, revert, merge, rebase, fetch, pull, push, tag
