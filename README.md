@@ -109,7 +109,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
 
 ## Workflow
-*Inexpensive branching allows people adopt workflows other than the classic centralilzed workflow*
+*Inexpensive branching allows people adopt workflows other than the classic centralized workflow*
 
 * [Pro Git - Distributed Workflows](https://git-scm.com/book/it/v2/Distributed-Git-Distributed-Workflows)
 * [Atlassian Git Tutorial - Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
