@@ -124,7 +124,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 * [pre-commit](http://pre-commit.com/) - a framework for managing and maintaining multi-language pre-commit hooks from Yelp. Extensive support for multiple programming language.
 * [Overcommit](https://github.com/brigade/overcommit/) - a extendable Git hook manager written with Ruby.
-* [git-hooks](https://github.com/icefox/git-hooks/) - tool to manage project, user, and global Git hooks
+* [Git Build Hook Maven Plugin](https://github.com/rudikershaw/git-build-hook) - Install git hooks and configuration in a Maven build.
 * [quickhook](https://github.com/dirk/quickhook/) - a fast, Unix'y, opinionated Git hook runner
 * [husky](https://github.com/typicode/husky) - Git hooks for Node.js, manage your hooks from your package.json
 * more on https://githooks.com/
