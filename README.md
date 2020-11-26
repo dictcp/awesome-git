@@ -77,6 +77,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the basic `git` CLI
 * [Fork](https://git-fork.com) - An awesome and free git client for macOS and Windows
 * [Magit](https://magit.vc) - A Git porcelain inside Emacs
+* [Vershd](https://vershd.io/) - a free for personal use effortless Git GUI for Windows, Mac, & Linux.
 
 
 ## Repository Hosting
