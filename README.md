@@ -29,7 +29,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [The Git Community Book](https://schacon.github.io/gitbook/) - book built by dozens of people in the Git community
 * [Git Pocket Guide](http://shop.oreilly.com/product/0636920024972) - a short O'Reilly book on Git
 * [Git Real: Code School](https://www.codeschool.com/courses/git-real/) - paid training course from Code School
-* [ranching](http://pcottle.github.io/learnGitBranching/) - visual way to learn git branching
+* [Git Branching](http://pcottle.github.io/learnGitBranching/) - visual way to learn git branching
 * [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) - tutorial-based book by Manning Publications
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) - short book about Git
 * [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) - great series of articles about Git
