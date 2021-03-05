@@ -15,6 +15,7 @@ Pull requests on interesting tools/projects/resources are welcome.
   - [Hook management](#hook-management)
   - [Tools](#tools)
   - [Extensions](#extensions)
+  - [Physical products](#physical-products)
 
 ## Tutorial
 *There are tons of learning material on the Web*
@@ -156,3 +157,9 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Git Large File Storage](https://git-lfs.github.com/) - practical solution for versioning large files. supported by GitHub
 * [Git Virtual File System or GVFS](https://github.com/Microsoft/GVFS) - solution for managing very large Git repository while maintaining speed and efficiency of most operations. in developement by Microsoft.
 * [git-annex](https://git-annex.branchable.com/) - allow managing large binaries among machines, as if operation a normal git repository. possible to creates a synchronised folder with [git-annex assistant](https://git-annex.branchable.com/assistant/).
+
+## Physical products
+
+* Git cheat sheet on [coffee mugs](https://remembertheapi.com/products/git-cheat-sheet-black-mugs), [mousepads](https://remembertheapi.com/products/git-cheat-sheet-mousepad), [spiral notebooks](https://remembertheapi.com/products/spiral-notebook-ruled-line)
+
+
