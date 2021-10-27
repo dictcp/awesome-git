@@ -128,6 +128,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [git-hooks](https://github.com/icefox/git-hooks/) - tool to manage project, user, and global Git hooks
 * [quickhook](https://github.com/dirk/quickhook/) - a fast, Unix'y, opinionated Git hook runner
 * [husky](https://github.com/typicode/husky) - Git hooks for Node.js, manage your hooks from your package.json
+* [Mookme](https://github.com/Escape-Technologies/mookme) - A simple and easy-to-use, yet powerful and language agnostic git hook for monorepos
 * more on https://githooks.com/
 
 ## Tools
