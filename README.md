@@ -21,10 +21,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 ## Tutorial
 *There are tons of learning material on the Web*
 
-* [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) - guide about what to do when things go wrong
 * [Try Git](https://try.github.io/) - learn Git in 15 minutes with pseudo-terminal interface
 * [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/) - comprehensive tutorial on Git
-* [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) - all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
 * [Learn Version Control with Git](https://www.git-tower.com/learn/) - freemium ebook from fournova Software (makers for Tower), associated with paid video course
 * [Pro Git](https://git-scm.com/book/) - free Git book, also available on paper (CC BY-NC-SA 3.0)
 * [Learn how to use Git](https://www.deployhq.com/git) - free tutorials and resources to help you learn the basics of Git
@@ -53,6 +51,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [A Git Choose Your Own Adventure](http://sethrobertson.github.io/GitFixUm/fixup.html) - I never found a git tutorial I didn't understand while doing it. Just sometimes those tutoars didn't line up very well with my actual work. This git help in the form of a choose your own adventure was a life saver when I was fisrt starting out.
 * [On undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm/fixup.html) - fairly comprehensive guide to recovering from what you did not mean to do when using git
 * [Deconstructing a git commit](https://krishnabiradar.com/blogs/deconstructing-a-git-commit/) - A blog explaining how git creates and stores commit histories.
+* [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) - guide about what to do when things go wrong
+* [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) - all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
 
 ## Style Guide
 *Style guide when you work with git*
@@ -62,22 +62,22 @@ Pull requests on interesting tools/projects/resources are welcome.
 ## Client
 *Git clients are available on every platform, from mainframe to your mobile device*
 
-* [TortoiseGit](https://tortoisegit.org/) - an easy-to-use Git client on Windows. well-integrated with Windows Explorer.
 * [GitHub Desktop](https://desktop.github.com/) - Git Client by GitHub. works with GitHub and GitHub Enterprise seamlessly
 * [SourceTree](https://www.sourcetreeapp.com/) - free (in-beer) GUI client. Windows and Mac only
 * [Tower](http://www.git-tower.com/) - a popular non-free Git GUI client. Mac and Windows
+* [GitKraken](https://www.gitkraken.com/) - a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
+* [Fork](https://git-fork.com) - An awesome and free git client for macOS and Windows
+* [TortoiseGit](https://tortoisegit.org/) - an easy-to-use Git client on Windows. well-integrated with Windows Explorer.
 * [SmartGit](http://www.syntevo.com/smartgit/) - a commercial comprehensive SCM client with Git, SVN, Mercurial. cross-platform (works on Windows, Mac and Linux)
 * [RabbitVCS](http://rabbitvcs.org/) - TortoiseSVN inspired graphic tool for version control systems, with Nautilus and Thunar integration
 * [gitg](https://wiki.gnome.org/Apps/Gitg/) - a open-source GTK+ GUI client
 * [git-cola](http://git-cola.github.io/) - a cross-platform Git GUI client
 * [SGit](https://github.com/sheimi/SGit) - Git client for Android 4.x
 * [Ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
-* [GitKraken](https://www.gitkraken.com/) - a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
 * [GitUp](http://gitup.co) - a clean, minimal Git client. Mac only.
 * [GitExtensions](https://gitextensions.github.io/) - a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
 * [WorkingCopy](https://workingcopyapp.com) - a powerful Git client for iOS. Free with in-app purchase to unlock the ability to push commits.
 * [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the basic `git` CLI
-* [Fork](https://git-fork.com) - An awesome and free git client for macOS and Windows
 * [Magit](https://magit.vc) - A Git porcelain inside Emacs
 * [Vershd](https://vershd.io/) - a free for personal use effortless Git GUI for Windows, Mac, & Linux.
 
@@ -91,9 +91,10 @@ Pull requests on interesting tools/projects/resources are welcome.
 		* [GitHub Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 * [BitBucket](http://bitbucket.org/) - well-known for its free private repository (5 user max).
 * [Jetbrains Space](https://www.jetbrains.com/space/) - Jetbrains all-in-one solution for software teams, with IM, ticket tracking, source control.
-* [Kiln](https://www.fogcreek.com/kiln/) - paid Git repository hosting service
 * [GitLab.com](https://about.gitlab.com/gitlab-com/) - a free Git repository hosting service served by GitLab EE. Unlimited repositories and private collaborators
+* [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) - cloud service for software development formerly known as Visual Studio Team Services, Visual Studio Online and Team Foundation Service Preview
 * [AWS CodeCommit](https://aws.amazon.com/codecommit/) - a SaaS service provided by Amazon Web Service on high availability infrastructure
+* [Kiln](https://www.fogcreek.com/kiln/) - paid Git repository hosting service
 * [Deveo](https://deveo.com/) - a paid repository hosting service with support for Git, Subversion, Mercurial, WebDAV
 
 ## Self-Hosted Repository
