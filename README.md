@@ -119,12 +119,16 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 * [Pro Git - Distributed Workflows](https://git-scm.com/book/it/v2/Distributed-Git-Distributed-Workflows)
 * [Atlassian Git Tutorial - Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+* [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
+
+### Comparing workflows
+*No single workflow fits everyone's need*
+
 * [Gitflow](http://nvie.com/posts/a-successful-git-branching-model/) - the most well-known Git workflow model
 * [GitHub flow](http://scottchacon.com/2011/08/31/github-flow.html) - a simple branching model with a single master
 * [GitLab flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
 * [Git DMZ Flow](https://gist.github.com/djspiewak/9f2f91085607a4859a66)
 * [Aoneflow](https://www.alibabacloud.com/blog/how-do-we-manage-code-branches-at-alibaba_593834) - an interesting branch model which delays the final merge to production branch, adopted by Alibaba. more article (in Chinese text) at [1](https://segmentfault.com/a/1190000016373314), [2](https://yq.aliyun.com/articles/573549)
-* [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
 
 ## Hook management
 *Git provide hooks at commit/push phrase, allowing integration with and code quality checking tool and Continuous Integration (CI)*
