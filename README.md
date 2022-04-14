@@ -53,6 +53,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Deconstructing a git commit](https://krishnabiradar.com/blogs/deconstructing-a-git-commit/) - A blog explaining how git creates and stores commit histories.
 * [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) - guide about what to do when things go wrong
 * [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) - all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
+* [Git Cherry-pick and its usages](https://www.loginradius.com/blog/async/git-cherry-pick/) - A blog explaining how command git cherry-pick works.
 
 ## Style Guide
 *Style guide when you work with git*
