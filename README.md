@@ -106,12 +106,13 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [GitLab CE/EE](https://gitlab.com/) - a popular open-source Git (CE) with paid support option (EE).
 * ~~[Upsource](https://www.jetbrains.com/upsource) - recent offer from Jetbrains, a famous developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity~~
   * Upsource is no longer available as a commercial product as of February 1, 2022.[*](https://www.jetbrains.com/upsource/)
-* [GitBucket](https://github.com/takezoe/gitbucket/) - a GitHub clone powered by Scala.
 * [Gogs](http://gogs.io/) - a self-hosted Git Service written in Go.
 * [Gitea](https://gitea.io/) - a community managed fork of Gogs, lightweight code hosting solution written in Go.
+* [GitBucket](https://github.com/takezoe/gitbucket/) - a GitHub clone powered by Scala.
 * [GitBlit](http://gitblit.com/) - Pure Java Stack for managing, view, and serving Git repositories.
 * [Apache Allura](https://allura.apache.org/) - an open source implementation of project hosting platform
 * [Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software
+  * Effective June 1, 2021: Phabricator is no longer actively maintained.[*](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)
 * [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
 
 ## Workflow
@@ -135,7 +136,6 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 * [pre-commit](http://pre-commit.com/) - a framework for managing and maintaining multi-language pre-commit hooks from Yelp. Extensive support for multiple programming language.
 * [Overcommit](https://github.com/brigade/overcommit/) - a extendable Git hook manager written with Ruby.
-* [git-hooks](https://github.com/icefox/git-hooks/) - tool to manage project, user, and global Git hooks
 * [quickhook](https://github.com/dirk/quickhook/) - a fast, Unix'y, opinionated Git hook runner
 * [husky](https://github.com/typicode/husky) - Git hooks for Node.js, manage your hooks from your package.json
 * more on https://githooks.com/
@@ -146,6 +146,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - lists more than 20 git addons including all available commands
 * [myrepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
 * [mu-repo](http://fabioz.github.io/mu-repo/) - a tool to help in dealing with multiple git repositories
+* [multi-gitter](https://github.com/lindell/multi-gitter) - a tool to make changes in multiple repositories simultaneously
+* [gitwalk](https://github.com/pazdera/gitwalk) - Bulk processing of git repos
 * [gr](http://mixu.net/gr/) - a tool for managing multiple git repositories
 * [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - a simpler, faster alternative to git-filter-branch for cleansing bad data out of your Git repository history
 * [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
