@@ -90,6 +90,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 		* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 		* [GitHub Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 * [BitBucket](http://bitbucket.org/) - well-known for its free private repository (5 user max).
+* [Jetbrains Space](https://www.jetbrains.com/space/) - Jetbrains all-in-one solution for software teams, with IM, ticket tracking, source control.
 * [Kiln](https://www.fogcreek.com/kiln/) - paid Git repository hosting service
 * [GitLab.com](https://about.gitlab.com/gitlab-com/) - a free Git repository hosting service served by GitLab EE. Unlimited repositories and private collaborators
 * [AWS CodeCommit](https://aws.amazon.com/codecommit/) - a SaaS service provided by Amazon Web Service on high availability infrastructure
