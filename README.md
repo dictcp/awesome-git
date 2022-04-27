@@ -166,6 +166,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - a set of tools for parsing [conventional commit](https://conventionalcommits.org/) messages from git histories
 * [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 * [gickup](https://github.com/cooperspencer/gickup) - Backup repos from various hosters to local or other hosters.
+* [jc --git-log](https://kellyjonbrazil.github.io/jc/docs/parsers/git_log) - Convert your git log to JSON.
 
 
 ## Extensions
