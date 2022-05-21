@@ -123,6 +123,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Pro Git - Distributed Workflows](https://git-scm.com/book/it/v2/Distributed-Git-Distributed-Workflows)
 * [Atlassian Git Tutorial - Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 * [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
+* [Branching Models article from Nyx](https://mooltiverse.github.io/nyx/guide/user/best-practice/branching-models/)
 
 ### Comparing workflows
 *No single workflow fits everyone's need*
