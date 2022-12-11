@@ -54,6 +54,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) - guide about what to do when things go wrong
 * [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) - all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
 * [Git Cherry-pick and its usages](https://www.loginradius.com/blog/async/git-cherry-pick/) - A blog explaining how command git cherry-pick works.
+* [The ultimate guide to <code>.gitignore</code>](https://github.com/groda/the_ultimate_gitignore_guide) All about `.gitignore`.
 
 ## Style Guide
 *Style guide when you work with git*
