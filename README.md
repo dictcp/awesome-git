@@ -116,6 +116,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software
   * Effective June 1, 2021: Phabricator is no longer actively maintained.[*](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)
 * [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
+* [Pagure](https://pagure.io/pagure) - a flask based git forge used to host [the Fedora Project sources](https://src.fedoraproject.org/).
 
 ## Workflow
 *Inexpensive branching allows people adopt workflows other than the classic centralized workflow*
