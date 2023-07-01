@@ -148,6 +148,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 *Various tools for daily operations*
 
 * [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - lists more than 20 git addons including all available commands
+* [garden](https://gitlab.com/garden-rs/garden) - grow and cultivate collections of Git trees. Create development workflows using configuration-defined commands and environments.
 * [myrepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
 * [mu-repo](http://fabioz.github.io/mu-repo/) - a tool to help in dealing with multiple git repositories
 * [multi-gitter](https://github.com/lindell/multi-gitter) - a tool to make changes in multiple repositories simultaneously
