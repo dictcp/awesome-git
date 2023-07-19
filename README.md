@@ -133,6 +133,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [GitLab flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
 * [Git DMZ Flow](https://gist.github.com/djspiewak/9f2f91085607a4859a66)
 * [Aoneflow](https://www.alibabacloud.com/blog/how-do-we-manage-code-branches-at-alibaba_593834) - an interesting branch model which delays the final merge to production branch, adopted by Alibaba. more article (in Chinese text) at [1](https://segmentfault.com/a/1190000016373314), [2](https://yq.aliyun.com/articles/573549)
+* [Agit-flow](https://git-repo.info/en/2020/03/agit-flow-and-git-repo/) - Inspired by Gerrit workflow, Agit-flow is a centralized git workflow and used in Alibaba’s internal source code platform
 
 ## Hook management
 *Git provide hooks at commit/push phrase, allowing integration with and code quality checking tool and Continuous Integration (CI)*
