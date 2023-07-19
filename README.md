@@ -54,6 +54,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) - guide about what to do when things go wrong
 * [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) - all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
 * [Git Cherry-pick and its usages](https://www.loginradius.com/blog/async/git-cherry-pick/) - A blog explaining how command git cherry-pick works.
+* [The ultimate guide to <code>.gitignore</code>](https://github.com/groda/the_ultimate_gitignore_guide) All about `.gitignore`.
 
 ## Style Guide
 *Style guide when you work with git*
@@ -116,6 +117,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software
   * Effective June 1, 2021: Phabricator is no longer actively maintained.[*](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)
 * [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
+* [Soft Serve](https://github.com/charmbracelet/soft-serve) - a tasty, self-hostable Git server for the command line
 
 ## Workflow
 *Inexpensive branching allows people adopt workflows other than the classic centralized workflow*
@@ -123,6 +125,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Pro Git - Distributed Workflows](https://git-scm.com/book/it/v2/Distributed-Git-Distributed-Workflows)
 * [Atlassian Git Tutorial - Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 * [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
+* [Branching Models article from Nyx](https://mooltiverse.github.io/nyx/guide/user/best-practice/branching-models/)
 
 ### Comparing workflows
 *No single workflow fits everyone's need*
@@ -132,6 +135,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [GitLab flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
 * [Git DMZ Flow](https://gist.github.com/djspiewak/9f2f91085607a4859a66)
 * [Aoneflow](https://www.alibabacloud.com/blog/how-do-we-manage-code-branches-at-alibaba_593834) - an interesting branch model which delays the final merge to production branch, adopted by Alibaba. more article (in Chinese text) at [1](https://segmentfault.com/a/1190000016373314), [2](https://yq.aliyun.com/articles/573549)
+* [Agit-flow](https://git-repo.info/en/2020/03/agit-flow-and-git-repo/) - Inspired by Gerrit workflow, Agit-flow is a centralized git workflow and used in Alibaba’s internal source code platform
 
 ## Hook management
 *Git provide hooks at commit/push phrase, allowing integration with and code quality checking tool and Continuous Integration (CI)*
@@ -167,6 +171,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 * [gickup](https://github.com/cooperspencer/gickup) - Backup repos from various hosters to local or other hosters.
 * [jc --git-log](https://kellyjonbrazil.github.io/jc/docs/parsers/git_log) - Convert your git log to JSON.
+* [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
+* [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 
 
 ## Extensions
