@@ -99,6 +99,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [AWS CodeCommit](https://aws.amazon.com/codecommit/) - a SaaS service provided by Amazon Web Service on high availability infrastructure
 * [Kiln](https://www.fogcreek.com/kiln/) - paid Git repository hosting service
 * [Deveo](https://deveo.com/) - a paid repository hosting service with support for Git, Subversion, Mercurial, WebDAV
+* [DevHub](https://dev-hub.eu/) - A privacy friendly repository hosting service with free and paid versions. Offerings are based on Gitea.
 
 ## Self-Hosted Repository
 *Or you can host the code yourselves*
