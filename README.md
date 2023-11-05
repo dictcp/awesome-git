@@ -141,11 +141,12 @@ Pull requests on interesting tools/projects/resources are welcome.
 ## Hook management
 *Git provide hooks at commit/push phrase, allowing integration with and code quality checking tool and Continuous Integration (CI)*
 
-* [pre-commit](https://pre-commit.com/) - a framework for managing and maintaining multi-language pre-commit hooks from Yelp. Extensive support for multiple programming language.
-* [Overcommit](https://github.com/brigade/overcommit/) - a extendable Git hook manager written with Ruby.
-* [quickhook](https://github.com/dirk/quickhook/) - a fast, Unix'y, opinionated Git hook runner
-* [husky](https://github.com/typicode/husky) - Git hooks for Node.js, manage your hooks from your package.json
-* [Mookme](https://github.com/Escape-Technologies/mookme) - A simple and easy-to-use, yet powerful and language agnostic git hook for monorepos
+* [pre-commit](https://pre-commit.com) - a framework for managing and maintaining multi-language pre-commit hooks.
+* [husky](https://github.com/typicode/husky) - modern native Git hooks made easy.
+* [Overcommit](https://github.com/brigade/overcommit) - a extendable Git hook manager written with Ruby.
+* [lefthook](https://github.com/evilmartians/lefthook) - fast and powerful Git hooks manager for any type of project.
+* [Mookme](https://github.com/Escape-Technologies/mookme) - A simple and easy-to-use, yet powerful and language agnostic git hook for monorepos.
+* [quickhook](https://github.com/dirk/quickhook) - a fast, Unix'y, opinionated Git hook runner.
 * more on https://githooks.com/
 
 ## Tools
