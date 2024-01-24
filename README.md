@@ -163,6 +163,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Another collection of useful git commands.
 * [git-follow](https://github.com/nickolasburr/git-follow) - a tool for following lifetime changes of a file throughout the history of a Git repository.
+* [git-tools](https://github.com/kazhuravlev/git-tools) - CLI that helps to increment SemVer tags.
 * [Gitrob](https://github.com/michenriksen/gitrob) - a command line tool to find sensitive information lingering in publicly available files on GitHub
 * [gitFS](https://www.presslabs.com/gitfs/) - a FUSE file system that fully integrates with git
 * [Gitless](https://gitless.com/) - an experimental version of Git that changes some of Git's underlying concepts
