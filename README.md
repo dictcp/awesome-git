@@ -28,6 +28,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Learn how to use Git](https://www.deployhq.com/git) - free tutorials and resources to help you learn the basics of Git
 * [The Git Community Book](https://schacon.github.io/gitbook/) - book built by dozens of people in the Git community
 * [Git Pocket Guide](https://shop.oreilly.com/product/0636920024972) - a short O'Reilly book on Git
+* [Git katas](https://github.com/eficode-academy/git-katas) A set of exercises for deliberate Git Practice 
 * [Git Real: Code School](https://www.codeschool.com/courses/git-real/) - paid training course from Code School
 * [Git Branching](https://pcottle.github.io/learnGitBranching/) - visual way to learn git branching
 * [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) - tutorial-based book by Manning Publications
