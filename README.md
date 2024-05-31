@@ -103,6 +103,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 ## Self-Hosted Repository
 *Or you can host the code yourselves*
 
+* [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1 Click installer and maintenance suite for Gitea and GitLab CE. Self host from Windows, MacOS or Linux, hands free.
 * [Gitolite](https://gitolite.com/gitolite/) - a simple with fine-grained access control
 * [GitHub Enterprise](https://enterprise.github.com/) - self-hosted solution provided from GitHub
 * [Bitbucket Server](https://www.atlassian.com/software/bitbucket/server) - self-hosted refrom Atlassian. Good integration with JIRA and other Atlassian products
