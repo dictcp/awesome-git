@@ -105,6 +105,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 ## Self-Hosted Repository
 *Or you can host the code yourselves*
 
+* [Harness Open Source](https://developer.harness.io/docs/open-source) - Open Source code hosting with secret scanning based on Gitleaks. Self-hosted and Apache-2.0 license.
 * [Gitolite](https://gitolite.com/gitolite/) - a simple with fine-grained access control
 * [GitHub Enterprise](https://enterprise.github.com/) - self-hosted solution provided from GitHub
 * [Bitbucket Server](https://www.atlassian.com/software/bitbucket/server) - self-hosted refrom Atlassian. Good integration with JIRA and other Atlassian products
