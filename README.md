@@ -113,6 +113,7 @@ Pull requests on interesting tools/projects/resources are welcome.
   * Upsource is no longer available as a commercial product as of February 1, 2022.[*](https://www.jetbrains.com/upsource/)
 * [Gogs](https://gogs.io/) - a self-hosted Git Service written in Go.
 * [Gitea](https://gitea.io/) - a community managed fork of Gogs, lightweight code hosting solution written in Go.
+* [Forgejo](https://forgejo.org/) - a community managed fork of Gitea, started after Gitea changed ownership.[*](https://gitea-open-letter.coding.social/)
 * [onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with Kanban and CI/CD
 * [GitBucket](https://github.com/takezoe/gitbucket/) - a GitHub clone powered by Scala.
 * [GitBlit](http://gitblit.com/) - Pure Java Stack for managing, view, and serving Git repositories.
