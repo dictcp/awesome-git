@@ -181,6 +181,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
+* [git-travel](https://github.com/rutaka-n/git-travel) - command that allows to "travel" over branch commit history backward and forward easialy.
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
