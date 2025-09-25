@@ -177,6 +177,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 * [gickup](https://github.com/cooperspencer/gickup) - Backup repos from various hosters to local or other hosters.
 * [git-absorb](https://github.com/tummychow/git-absorb) - `git commit --fixup`, but automatic
+* [GitLab Merge Alert](https://github.com/Alfonsxh/gitlab-merge-alert-go) - Self-hosted notification service for GitLab merge requests with WeChat Work (企业微信) integration for real-time alerts.
 * [jc --git-log](https://kellyjonbrazil.github.io/jc/docs/parsers/git_log) - Convert your git log to JSON.
 * [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
