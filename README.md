@@ -160,6 +160,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [myrepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
 * [mu-repo](https://fabioz.github.io/mu-repo/) - a tool to help in dealing with multiple git repositories
 * [multi-gitter](https://github.com/lindell/multi-gitter) - a tool to make changes in multiple repositories simultaneously
+* [gitlogue](https://github.com/unhappychoice/gitlogue) - A TUI screensaver that visualizes Git commit history in your terminal with typing animations and syntax highlighting.
 * [gitwalk](https://github.com/pazdera/gitwalk) - Bulk processing of git repos
 * [gr](http://mixu.net/gr/) - a tool for managing multiple git repositories
 * [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - a simpler, faster alternative to git-filter-branch for cleansing bad data out of your Git repository history
