@@ -178,6 +178,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [gickup](https://github.com/cooperspencer/gickup) - Backup repos from various hosters to local or other hosters.
 * [git-absorb](https://github.com/tummychow/git-absorb) - `git commit --fixup`, but automatic
 * [jc --git-log](https://kellyjonbrazil.github.io/jc/docs/parsers/git_log) - Convert your git log to JSON.
+* [graphable](https://github.com/TheTrueSCU/graphable) - Dependency graph engine with support for complex history analysis and visual diffing.
 * [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
