@@ -85,6 +85,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Vershd](https://vershd.io/) - a free for personal use effortless Git GUI for Windows, Mac, & Linux.
 * [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go
 * [Gittyup](https://github.com/Murmele/Gittyup) - a graphical Git client designed to help you understand and manage your source code history.
+* [GitComet](https://github.com/Auto-Explore/GitComet) - Fast git gui, Windows, macOs, Linux
 
 
 ## Repository Hosting
