@@ -173,6 +173,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Gitless](https://gitless.com/) - an experimental version of Git that changes some of Git's underlying concepts
 * [ghq](https://github.com/motemen/ghq) — Organization for remote repositories
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
+* [changegen](https://github.com/creativengine-ai/changegen) - Generate clean, categorized changelogs from git commit history using Conventional Commits.
 * [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - a set of tools for parsing [conventional commit](https://conventionalcommits.org/) messages from git histories
 * [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 * [gickup](https://github.com/cooperspencer/gickup) - Backup repos from various hosters to local or other hosters.
