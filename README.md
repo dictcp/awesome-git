@@ -123,6 +123,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
 * [Soft Serve](https://github.com/charmbracelet/soft-serve) - a tasty, self-hostable Git server for the command line
 * [Harness Open Source](https://developer.harness.io/docs/open-source) - Open Source code hosting with secret scanning based on Gitleaks. Self-hosted and Apache-2.0 license.
+* [CodeFever Community](https://github.com/PGYER/codefever) - a free and open-source self-hosted Git service developed by PGYER, with one-line installation, repository management, branch protection and code review. MIT-licensed, written in PHP.
 
 ## Workflow
 *Inexpensive branching allows people adopt workflows other than the classic centralized workflow*
