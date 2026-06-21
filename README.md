@@ -41,6 +41,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Git & Git-Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 * [Git Tips](https://github.com/git-tips/tips)
 * [Interactive/Contextual/Visual Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html)
+* [Git & GitHub Cheatsheet](https://gitcheatsheets.org/) - fast, searchable reference of essential Git and GitHub commands, with copy-to-clipboard and light/dark themes
 * [The 'Git Pretty' Flow-Chart](http://justinhileman.info/article/git-pretty/git-pretty.png) - How to Recover from a Mess
 * [Software Carpentry: Git Lessons](https://software-carpentry.org/lessons/)
 * [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html) - GitHub Cofounder's Narrative-style Intro to Git Concepts
