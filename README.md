@@ -180,6 +180,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [jc --git-log](https://kellyjonbrazil.github.io/jc/docs/parsers/git_log) - Convert your git log to JSON.
 * [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
+* [Sentinel](https://github.com/sentinel-cli/sentinel) - A statically compiled, zero-dependency Git pre-commit secret detector written in Go.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
 
 ## Extensions
