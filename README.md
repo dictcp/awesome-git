@@ -146,6 +146,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 ## Hook management
 *Git provide hooks at commit/push phrase, allowing integration with and code quality checking tool and Continuous Integration (CI)*
 
+* [RepoBoundary](https://github.com/wabybaddouch-arch/repoboundary) - Define protected paths and block commits when staged changes touch them.
 * [pre-commit](https://pre-commit.com) - a framework for managing and maintaining multi-language pre-commit hooks.
 * [husky](https://github.com/typicode/husky) - modern native Git hooks made easy.
 * [Overcommit](https://github.com/brigade/overcommit) - a extendable Git hook manager written with Ruby.
@@ -153,6 +154,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Mookme](https://github.com/Escape-Technologies/mookme) - A simple and easy-to-use, yet powerful and language agnostic git hook for monorepos.
 * [quickhook](https://github.com/dirk/quickhook) - a fast, Unix'y, opinionated Git hook runner.
 * more on https://githooks.com/
+  
 
 ## Tools
 *Various tools for daily operations*
