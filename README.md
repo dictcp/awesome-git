@@ -86,6 +86,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Vershd](https://vershd.io/) - a free for personal use effortless Git GUI for Windows, Mac, & Linux.
 * [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go
 * [Gittyup](https://github.com/Murmele/Gittyup) - a graphical Git client designed to help you understand and manage your source code history.
+* [SparkleShare](https://github.com/hbons/SparkleShare) - a graphical Git client that enables automatic syncing with Git repositories
 * [gitj (Git Journey)](https://github.com/roblillack/gitj) - Fast, small, cross-platform GUI git client (gitk/git-gui style) with image diff support
 
 ## Repository Hosting
