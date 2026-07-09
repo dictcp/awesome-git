@@ -69,6 +69,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [SourceTree](https://www.sourcetreeapp.com/) - free (in-beer) GUI client. Windows and Mac only
 * [Tower](https://www.git-tower.com/) - a popular non-free Git GUI client. Mac and Windows
 * [GitKraken](https://www.gitkraken.com/) - a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
+* [Rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
 * [Fork](https://git-fork.com) - An awesome and free git client for macOS and Windows
 * [TortoiseGit](https://tortoisegit.org/) - an easy-to-use Git client on Windows. well-integrated with Windows Explorer.
 * [SmartGit](https://www.syntevo.com/smartgit/) - a commercial comprehensive SCM client with Git, SVN, Mercurial. cross-platform (works on Windows, Mac and Linux)
@@ -86,7 +87,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go
 * [Gittyup](https://github.com/Murmele/Gittyup) - a graphical Git client designed to help you understand and manage your source code history.
 * [SparkleShare](https://github.com/hbons/SparkleShare) - a graphical Git client that enables automatic syncing with Git repositories
-
+* [gitj (Git Journey)](https://github.com/roblillack/gitj) - Fast, small, cross-platform GUI git client (gitk/git-gui style) with image diff support
 
 ## Repository Hosting
 *People have plenty of options to host their source code*
