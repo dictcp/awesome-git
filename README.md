@@ -172,6 +172,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Gitrob](https://github.com/michenriksen/gitrob) - a command line tool to find sensitive information lingering in publicly available files on GitHub
 * [gitFS](https://www.presslabs.com/gitfs/) - a FUSE file system that fully integrates with git
 * [Gitless](https://gitless.com/) - an experimental version of Git that changes some of Git's underlying concepts
+* [Geeto](https://github.com/rust142/geeto) - AI-powered Git workflow automation CLI: branch naming, commit messages, release management, Trello, PRs. Supports Gemini, Copilot, OpenRouter, Groq, Codex.
 * [ghq](https://github.com/motemen/ghq) — Organization for remote repositories
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 * [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - a set of tools for parsing [conventional commit](https://conventionalcommits.org/) messages from git histories
