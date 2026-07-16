@@ -182,6 +182,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
+* [new-branch](https://github.com/teles/new-branch) - A CLI to generate standardized Git branch names using a declarative pattern and transform pipeline.
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
