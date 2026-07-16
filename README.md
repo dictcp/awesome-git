@@ -168,6 +168,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [etckeeper](https://etckeeper.branchable.com/) - a collection of tools to let /etc be stored in a git repository
 * [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Another collection of useful git commands.
+* [CommitCraft AI](https://marketplace.visualstudio.com/items?itemName=CommitCraftAI.commitcraft-ai) - AI-powered VS Code extension that generates conventional commit messages, PR descriptions and changelogs from git diffs using Claude AI. Free tier available.
+
 * [git-follow](https://github.com/nickolasburr/git-follow) - a tool for following lifetime changes of a file throughout the history of a Git repository.
 * [Gitrob](https://github.com/michenriksen/gitrob) - a command line tool to find sensitive information lingering in publicly available files on GitHub
 * [gitFS](https://www.presslabs.com/gitfs/) - a FUSE file system that fully integrates with git
