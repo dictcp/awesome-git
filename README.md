@@ -182,6 +182,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
+* [gitsearch](https://gitsearch.henrybravo.nl) - A powerful command-line tool for searching across public and selfhosted GitLab repositories
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
