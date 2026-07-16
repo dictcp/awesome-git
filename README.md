@@ -166,6 +166,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - a simpler, faster alternative to git-filter-branch for cleansing bad data out of your Git repository history
 * [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
 * [etckeeper](https://etckeeper.branchable.com/) - a collection of tools to let /etc be stored in a git repository
+* [git-cl](https://github.com/BHFock/git-cl) - git subcommand for changelist support
 * [git-extras](https://github.com/tj/git-extras) – git utilities adding useful git commands.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Another collection of useful git commands.
 * [git-follow](https://github.com/nickolasburr/git-follow) - a tool for following lifetime changes of a file throughout the history of a Git repository.
