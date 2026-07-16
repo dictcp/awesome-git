@@ -180,6 +180,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [git-absorb](https://github.com/tummychow/git-absorb) - `git commit --fixup`, but automatic
 * [jc --git-log](https://kellyjonbrazil.github.io/jc/docs/parsers/git_log) - Convert your git log to JSON.
 * [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
+* [git-graphable](https://github.com/TheTrueSCU/git-graphable) - A powerful Python tool to convert Git commit history into beautiful, interactive flowcharts with hygiene scoring and CI gating.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
 
