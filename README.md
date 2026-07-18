@@ -61,6 +61,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 *Style guide when you work with git*
 
 * [Udacity Nanodegree Style Guide](https://udacity.github.io/git-styleguide/index.html)
+* [Commitlint Config Generator](https://draftkit.co/dev-launch-pack/commitlint-config-generator.html) - Free tool that generates a commitlint.config.js from your team's rules; enforces Conventional Commits with Husky hooks
 
 ## Client
 *Git clients are available on every platform, from mainframe to your mobile device*
