@@ -85,6 +85,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Magit](https://magit.vc) - A Git porcelain inside Emacs
 * [Vershd](https://vershd.io/) - a free for personal use effortless Git GUI for Windows, Mac, & Linux.
 * [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go
+* [Gitside](https://github.com/dev-bhaskar8/gitside) - A responsive, mouse-friendly Git source-control TUI for full terminals and narrow tmux panes.
 * [Gittyup](https://github.com/Murmele/Gittyup) - a graphical Git client designed to help you understand and manage your source code history.
 * [gitj (Git Journey)](https://github.com/roblillack/gitj) - Fast, small, cross-platform GUI git client (gitk/git-gui style) with image diff support
 
