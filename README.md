@@ -38,6 +38,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Migrating to Git LFS](https://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Use Git LFS on an existing repository to manage large files in a better way
 * [Explain Git with D3](https://onlywei.github.io/explain-git-with-d3/) - Visualized few basic Git concepts using D3.js: commit, branch, checkout, reset, revert, merge, rebase, fetch, pull, push, tag
 * [Making Sense of Git – A Visual Perspective](https://appendto.com/2015/06/making-sense-of-git-a-visual-perspective/) - Git from a timeline and level perspective and git commands cheatsheet grouped by functionality
+* [Git Cheat Sheet](https://github.com/RR0327/git-cheat-sheet) - practical Git and GitHub reference with beginner-to-advanced commands, workflows, troubleshooting guides, conventional commits, and downloadable resources
 * [Git & Git-Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 * [Git Tips](https://github.com/git-tips/tips)
 * [Interactive/Contextual/Visual Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html)
