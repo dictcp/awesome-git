@@ -102,6 +102,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [AWS CodeCommit](https://aws.amazon.com/codecommit/) - a SaaS service provided by Amazon Web Service on high availability infrastructure
 * [Kiln](https://www.fogcreek.com/kiln/) - paid Git repository hosting service
 * [Deveo](https://deveo.com/) - a paid repository hosting service with support for Git, Subversion, Mercurial, WebDAV
+* [gittr](https://gittr.space/) - git hosting and forge UI on Nostr (NIP-34): repos, issues/PRs, Lightning bounties. Identity is a Nostr key, not a GitHub login. ([source](https://github.com/arbadacarbaYK/gittr))
 
 ## Self-Hosted Repository
 *Or you can host the code yourselves*
@@ -124,6 +125,7 @@ Pull requests on interesting tools/projects/resources are welcome.
   * Upsource is no longer available as a commercial product as of February 1, 2022.[*](https://www.jetbrains.com/upsource/)
 * [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
 * [Soft Serve](https://github.com/charmbracelet/soft-serve) - a tasty, self-hostable Git server for the command line
+* [gitnostr](https://github.com/arbadacarbaYK/gitnostr) - self-hostable git bridge to Nostr: SSH/HTTPS bare repos, NIP-34 events, kind-52 SSH keys; used by gittr
 
 ## Workflow
 *Inexpensive branching allows people adopt workflows other than the classic centralized workflow*
@@ -182,6 +184,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
+* [gittr-mcp](https://github.com/arbadacarbaYK/gittr-mcp) - MCP server so AI agents can use gittr (repos, push, issues/PRs, bounties) with a Nostr identity
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
