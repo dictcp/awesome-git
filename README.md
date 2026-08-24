@@ -22,6 +22,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 *There are tons of learning material on the Web*
 
 * [Try Git](https://try.github.io/) - learn Git in 15 minutes with pseudo-terminal interface
+- [Git Rescue Field Guide](https://ghassan-gaidi.github.io/git-rescue-guide/?ref=specD2) - Step-by-step recovery from git disasters: undo reset --hard, restore deleted branches, survive rebases.
 * [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/) - comprehensive tutorial on Git
 * [Learn Version Control with Git](https://www.git-tower.com/learn/) - freemium ebook from fournova Software (makers for Tower), associated with paid video course
 * [Pro Git](https://git-scm.com/book/) - free Git book, also available on paper (CC BY-NC-SA 3.0)
