@@ -181,6 +181,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [jc --git-log](https://kellyjonbrazil.github.io/jc/docs/parsers/git_log) - Convert your git log to JSON.
 * [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
+* [subcommit](https://github.com/reemus-dev/subcommit) - commit selected files or line ranges without disturbing unrelated staged, unstaged, or untracked work.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
 
 ## Extensions
