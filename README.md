@@ -31,6 +31,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Git Real: Code School](https://www.codeschool.com/courses/git-real/) - paid training course from Code School
 * [Git Branching](https://pcottle.github.io/learnGitBranching/) - visual way to learn git branching
 * [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) - tutorial-based book by Manning Publications
+* [WebTerm Learn](https://learn.webterm.app/en/courses/git-introduction) - free hands-on Git courses in a simulated terminal in the browser; exercises are checked against the repository state
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) - short book about Git
 * [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) - great series of articles about Git
 * [Git-It](https://github.com/jlord/git-it-electron) - Interactive Tutorial App that runs on your Desktop!
