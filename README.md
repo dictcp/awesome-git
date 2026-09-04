@@ -182,6 +182,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
+* [YYLO](https://github.com/yylo-dev/yylo) - a CLI orchestrator that runs AI coding agents in parallel across isolated git worktrees and drives their merges and releases from a Kanban board.
+* [YYLO Ledger](https://github.com/yylo-dev/yylo-ledger) - a git-native task ledger that keeps Kanban boards, workflow state and release receipts as hash-chained Markdown inside the repository, with typed merge and release flows.
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
