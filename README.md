@@ -162,6 +162,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [mu-repo](https://fabioz.github.io/mu-repo/) - a tool to help in dealing with multiple git repositories
 * [multi-gitter](https://github.com/lindell/multi-gitter) - a tool to make changes in multiple repositories simultaneously
 * [gitwalk](https://github.com/pazdera/gitwalk) - Bulk processing of git repos
+* [Holt](https://github.com/Raed2180416/holt) - local-first command-line and MCP tools for mapping ownership, overlaps, duplicates, and local-only work across Git worktrees before cleanup or integration.
 * [gr](http://mixu.net/gr/) - a tool for managing multiple git repositories
 * [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - a simpler, faster alternative to git-filter-branch for cleansing bad data out of your Git repository history
 * [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
