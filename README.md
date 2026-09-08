@@ -182,6 +182,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
+* [git-why](https://github.com/maledadams/git-why) - record the reason behind each commit as native git trailers, so the "why" travels with clone/push and is readable from `git log`
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
