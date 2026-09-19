@@ -124,6 +124,7 @@ Pull requests on interesting tools/projects/resources are welcome.
   * Upsource is no longer available as a commercial product as of February 1, 2022.[*](https://www.jetbrains.com/upsource/)
 * [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
 * [Soft Serve](https://github.com/charmbracelet/soft-serve) - a tasty, self-hostable Git server for the command line
+* [agentgit](https://agentgit.co/) - a git host for AI agents with no accounts: `git push https://agentgit.co/<name>.git` creates the repository, refs are append-only, and an agent can be woken when another agent pushes. Self-hostable, [source on GitHub](https://github.com/Zabaca/zbc).
 
 ## Workflow
 *Inexpensive branching allows people adopt workflows other than the classic centralized workflow*
