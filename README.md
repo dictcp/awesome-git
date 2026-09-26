@@ -152,6 +152,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [lefthook](https://github.com/evilmartians/lefthook) - fast and powerful Git hooks manager for any type of project.
 * [Mookme](https://github.com/Escape-Technologies/mookme) - A simple and easy-to-use, yet powerful and language agnostic git hook for monorepos.
 * [quickhook](https://github.com/dirk/quickhook) - a fast, Unix'y, opinionated Git hook runner.
+* [ChronosGit](https://github.com/Evangelikcaos/ChronosGit-app) - time-aware version control: define when your code expires and automatically block commits/pushes before it breaks in production.
 * more on https://githooks.com/
 
 ## Tools
