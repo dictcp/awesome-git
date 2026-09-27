@@ -173,6 +173,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [gitFS](https://www.presslabs.com/gitfs/) - a FUSE file system that fully integrates with git
 * [Gitless](https://gitless.com/) - an experimental version of Git that changes some of Git's underlying concepts
 * [ghq](https://github.com/motemen/ghq) — Organization for remote repositories
+* [gm](https://github.com/jedipunkz/gm) — A ghq-style repository manager with a built-in fuzzy finder, frecency ranking, and Git worktree browsing
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 * [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - a set of tools for parsing [conventional commit](https://conventionalcommits.org/) messages from git histories
 * [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
