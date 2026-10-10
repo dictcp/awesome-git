@@ -183,6 +183,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
 
+* [git-doctor](https://github.com/Grimm67123/git-doctor) - The missing diagnostic health inspector and hygiene toolkit for Git repositories.
+
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
 
