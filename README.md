@@ -152,6 +152,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [lefthook](https://github.com/evilmartians/lefthook) - fast and powerful Git hooks manager for any type of project.
 * [Mookme](https://github.com/Escape-Technologies/mookme) - A simple and easy-to-use, yet powerful and language agnostic git hook for monorepos.
 * [quickhook](https://github.com/dirk/quickhook) - a fast, Unix'y, opinionated Git hook runner.
+* [jingle](https://github.com/OPDhaker/jingle) - plays a sound on every commit and successful push. Installed once as global hooks, and each repo's own hooks still run.
 * more on https://githooks.com/
 
 ## Tools
