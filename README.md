@@ -87,6 +87,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go
 * [Gittyup](https://github.com/Murmele/Gittyup) - a graphical Git client designed to help you understand and manage your source code history.
 * [gitj (Git Journey)](https://github.com/roblillack/gitj) - Fast, small, cross-platform GUI git client (gitk/git-gui style) with image diff support
+* [GitGud](https://github.com/zeuros/gitgud) - a free, open-source Git GUI for all platforms. Inspired from GitKraken, Tauri based.
 
 ## Repository Hosting
 *People have plenty of options to host their source code*
