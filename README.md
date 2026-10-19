@@ -183,6 +183,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
 
+* [Glim](https://github.com/NeoPanic/Glim) - an MIT-licensed macOS file viewer with Git diffs, staging/unstaging controls and local commits.
+
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
 
