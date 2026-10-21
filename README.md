@@ -163,6 +163,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [multi-gitter](https://github.com/lindell/multi-gitter) - a tool to make changes in multiple repositories simultaneously
 * [gitwalk](https://github.com/pazdera/gitwalk) - Bulk processing of git repos
 * [gr](http://mixu.net/gr/) - a tool for managing multiple git repositories
+* [grove](https://github.com/nicksenap/grove) - a tool to create and manage git worktree workspaces across multiple repositories
 * [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - a simpler, faster alternative to git-filter-branch for cleansing bad data out of your Git repository history
 * [GitIgnore Collection](https://github.com/github/gitignore) - collection of gitignore files for various programming language
 * [etckeeper](https://etckeeper.branchable.com/) - a collection of tools to let /etc be stored in a git repository
