@@ -88,6 +88,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Gittyup](https://github.com/Murmele/Gittyup) - a graphical Git client designed to help you understand and manage your source code history.
 * [GitComet](https://github.com/Auto-Explore/GitComet) - Fast git gui, Windows, macOs, Linux, written in Rust
 * [gitj (Git Journey)](https://github.com/roblillack/gitj) - Fast, small, cross-platform GUI git client (gitk/git-gui style) with image diff support
+* [Gitoryx](https://www.gitoryx.com/) - cross-platform desktop Git client with a visual commit graph, interactive rebase, and line-level staging
 
 ## Repository Hosting
 *People have plenty of options to host their source code*
