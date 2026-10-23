@@ -183,6 +183,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
+* [gitstats-cli](https://github.com/yaroslavhaidash/gitstats-cli) - count your own commits and lines across local repos and compare them with friends on gitstats.org; only numbers leave your machine
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
