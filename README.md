@@ -69,6 +69,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [SourceTree](https://www.sourcetreeapp.com/) - free (in-beer) GUI client. Windows and Mac only
 * [Tower](https://www.git-tower.com/) - a popular non-free Git GUI client. Mac and Windows
 * [GitKraken](https://www.gitkraken.com/) - a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
+* [Rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
 * [Fork](https://git-fork.com) - An awesome and free git client for macOS and Windows
 * [TortoiseGit](https://tortoisegit.org/) - an easy-to-use Git client on Windows. well-integrated with Windows Explorer.
 * [SmartGit](https://www.syntevo.com/smartgit/) - a commercial comprehensive SCM client with Git, SVN, Mercurial. cross-platform (works on Windows, Mac and Linux)
@@ -85,8 +86,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Vershd](https://vershd.io/) - a free for personal use effortless Git GUI for Windows, Mac, & Linux.
 * [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go
 * [Gittyup](https://github.com/Murmele/Gittyup) - a graphical Git client designed to help you understand and manage your source code history.
-* [GitComet](https://github.com/Auto-Explore/GitComet) - Fast git gui, Windows, macOs, Linux
-
+* [GitComet](https://github.com/Auto-Explore/GitComet) - Fast git gui, Windows, macOs, Linux, written in Rust
+* [gitj (Git Journey)](https://github.com/roblillack/gitj) - Fast, small, cross-platform GUI git client (gitk/git-gui style) with image diff support
 
 ## Repository Hosting
 *People have plenty of options to host their source code*
@@ -108,22 +109,22 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 * [Gitolite](https://gitolite.com/gitolite/) - a simple with fine-grained access control
 * [GitHub Enterprise](https://enterprise.github.com/) - self-hosted solution provided from GitHub
-* [Bitbucket Server](https://www.atlassian.com/software/bitbucket/server) - self-hosted refrom Atlassian. Good integration with JIRA and other Atlassian products
 * [GitLab CE/EE](https://gitlab.com/) - a popular open-source Git (CE) with paid support option (EE).
-* ~~[Upsource](https://www.jetbrains.com/upsource) - recent offer from Jetbrains, a famous developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity~~
-  * Upsource is no longer available as a commercial product as of February 1, 2022.[*](https://www.jetbrains.com/upsource/)
+* [Bitbucket Server](https://www.atlassian.com/software/bitbucket/server) - self-hosted refrom Atlassian. Good integration with JIRA and other Atlassian products
 * [Gogs](https://gogs.io/) - a self-hosted Git Service written in Go.
 * [Gitea](https://gitea.io/) - a community managed fork of Gogs, lightweight code hosting solution written in Go.
 * [Forgejo](https://forgejo.org/) - a community managed fork of Gitea, started after Gitea changed ownership.[*](https://gitea-open-letter.coding.social/)
 * [onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with Kanban and CI/CD
+* [Harness Open Source](https://developer.harness.io/docs/open-source) - Open Source code hosting with secret scanning based on Gitleaks. Self-hosted and Apache-2.0 license.
 * [GitBucket](https://github.com/takezoe/gitbucket/) - a GitHub clone powered by Scala.
 * [GitBlit](http://gitblit.com/) - Pure Java Stack for managing, view, and serving Git repositories.
 * [Apache Allura](https://allura.apache.org/) - an open source implementation of project hosting platform
-* [Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software
+* ~~[Phabricator](https://www.phacility.com/) - an integrated set of powerful tools to help companies build higher quality software~~
   * Effective June 1, 2021: Phabricator is no longer actively maintained.[*](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)
+* ~~[Upsource](https://www.jetbrains.com/upsource) - recent offer from Jetbrains, a famous developer-oriented software company. Code repository hosting feature pending. Free for 10 users. Good integration with YouTrack and TeamCity~~
+  * Upsource is no longer available as a commercial product as of February 1, 2022.[*](https://www.jetbrains.com/upsource/)
 * [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
 * [Soft Serve](https://github.com/charmbracelet/soft-serve) - a tasty, self-hostable Git server for the command line
-* [Harness Open Source](https://developer.harness.io/docs/open-source) - Open Source code hosting with secret scanning based on Gitleaks. Self-hosted and Apache-2.0 license.
 
 ## Workflow
 *Inexpensive branching allows people adopt workflows other than the classic centralized workflow*
