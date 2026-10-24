@@ -56,6 +56,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Git Cherry-pick and its usages](https://www.loginradius.com/blog/async/git-cherry-pick/) - A blog explaining how command git cherry-pick works.
 * [The ultimate guide to <code>.gitignore</code>](https://github.com/groda/the_ultimate_gitignore_guide) All about `.gitignore`.
 * [No Bullsh\*t Git](https://maciejb2k.github.io/no-bs-git/) - free and complete explanation of git internals and the `.git/` directory.
+* [PyGit](https://robcox2910.github.io/pygit/) - build Git from scratch in Python to learn how blobs, trees, commits and branches work inside.
 
 ## Style Guide
 *Style guide when you work with git*
