@@ -125,6 +125,7 @@ Pull requests on interesting tools/projects/resources are welcome.
   * Upsource is no longer available as a commercial product as of February 1, 2022.[*](https://www.jetbrains.com/upsource/)
 * [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
 * [Soft Serve](https://github.com/charmbracelet/soft-serve) - a tasty, self-hostable Git server for the command line
+* [Diffinery](https://diffinery.com/) - an open-source git forge you deploy to your own Cloudflare account, with pull requests, code review and GitHub Actions compatible CI. Apache-2.0.
 
 ## Workflow
 *Inexpensive branching allows people adopt workflows other than the classic centralized workflow*
