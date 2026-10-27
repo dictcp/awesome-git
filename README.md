@@ -183,6 +183,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
+* [Diff Anything](https://martingruner.com/projects/diffanything/capabilities/cli-git-and-ci) - a local diff app for Mac and Windows that works as git difftool and diff driver; free for text, JSON and Jupyter notebooks, a one-time Pro purchase adds spreadsheets, Word, PDF, the merge tool and the merge driver.
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
