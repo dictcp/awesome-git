@@ -182,6 +182,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [jc --git-log](https://kellyjonbrazil.github.io/jc/docs/parsers/git_log) - Convert your git log to JSON.
 * [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
+* [hubout](https://github.com/hamarshehmhmd/hubout) - mirror your GitHub repos to Codeberg, GitLab, Forgejo or a folder, check the mirrors are current, and switch clones to them (and back) during a GitHub outage.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
 
 ## Extensions
