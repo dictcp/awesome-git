@@ -183,7 +183,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
-
+* [Git Provenance Auditor](https://github.com/ktwu01/git-provenance-auditor) - Audits a git repository's history for evidence of AI assistance (Co-Authored-By trailers, agent rule files and agent traces) and produces a provenance evidence ledger.
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
 
