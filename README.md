@@ -103,6 +103,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [AWS CodeCommit](https://aws.amazon.com/codecommit/) - a SaaS service provided by Amazon Web Service on high availability infrastructure
 * [Kiln](https://www.fogcreek.com/kiln/) - paid Git repository hosting service
 * [Deveo](https://deveo.com/) - a paid repository hosting service with support for Git, Subversion, Mercurial, WebDAV
+* [Buddy](https://buddy.works) - hosted Git repositories with built-in CI/CD pipelines, sandboxes and app hosting
 
 ## Self-Hosted Repository
 *Or you can host the code yourselves*
