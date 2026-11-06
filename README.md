@@ -183,6 +183,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [gitbackup](https://github.com/amitsaha/gitbackup) - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 * [soba](https://github.com/jonhadfield/soba) - scheduled backups of repositories from popular providers with change detection.
 * [tig](https://github.com/jonas/tig) - text-mode interface for git.
+* [Global Law](https://github.com/lexifina/global-law) - the law of 208 jurisdictions stored as git repositories, one commit per change dated by an `In-force` trailer; its tools read any provision on any date, and `git blame` names the law behind each word.
 
 ## Extensions
 *Git is designed for source control management. but people extend the idea and push version control to everywhere*
