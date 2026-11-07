@@ -87,6 +87,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands, written in Go
 * [Gittyup](https://github.com/Murmele/Gittyup) - a graphical Git client designed to help you understand and manage your source code history.
 * [GitComet](https://github.com/Auto-Explore/GitComet) - Fast git gui, Windows, macOs, Linux, written in Rust
+* [GitTree](https://gittree.app/) - a visual Git client for macOS, Windows and Linux. Proprietary, with a free plan for local Git and a paid Pro version. Sign-in required.
 * [gitj (Git Journey)](https://github.com/roblillack/gitj) - Fast, small, cross-platform GUI git client (gitk/git-gui style) with image diff support
 
 ## Repository Hosting
