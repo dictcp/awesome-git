@@ -79,6 +79,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [SGit](https://github.com/sheimi/SGit) - Git client for Android 4.x
 * [Ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 * [GitUp](http://gitup.co) - a clean, minimal Git client. Mac only.
+* [GitOS](https://gitos.angelsaikia.com/) - a free, open-source Git client that picks the right GitHub account for every repository. Mac only.
 * [GitExtensions](https://gitextensions.github.io/) - a shell extension, a Visual Studio 2010-2015 plugin and a standalone Git repository tool.
 * [WorkingCopy](https://workingcopyapp.com) - a powerful Git client for iOS. Free with in-app purchase to unlock the ability to push commits.
 * [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the basic `git` CLI
