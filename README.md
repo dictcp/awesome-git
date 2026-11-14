@@ -125,6 +125,7 @@ Pull requests on interesting tools/projects/resources are welcome.
   * Upsource is no longer available as a commercial product as of February 1, 2022.[*](https://www.jetbrains.com/upsource/)
 * [RhodeCode CE/EE](https://rhodecode.com/) - a platform delivering enterprise source code management
 * [Soft Serve](https://github.com/charmbracelet/soft-serve) - a tasty, self-hostable Git server for the command line
+* [Kodama](https://github.com/optimiware/kodama) - self-hosted API-first software factory and Git companion (`kodama git serve`) in Go with gitolite-inspired access rules in `conf/git.conf`, `pre-receive` approval verification, push triggers, and container pipelines (Apache-2.0).
 
 ## Workflow
 *Inexpensive branching allows people adopt workflows other than the classic centralized workflow*
