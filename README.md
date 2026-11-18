@@ -21,6 +21,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 ## Tutorial
 *There are tons of learning material on the Web*
 
+* [LabEx Git Learning Path](https://labex.io/learn/git) - Interactive Git skill tree with hands-on labs, practice challenges, and step-by-step tutorials covering everything from basics to advanced Git workflows
 * [Try Git](https://try.github.io/) - learn Git in 15 minutes with pseudo-terminal interface
 * [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/) - comprehensive tutorial on Git
 * [Learn Version Control with Git](https://www.git-tower.com/learn/) - freemium ebook from fournova Software (makers for Tower), associated with paid video course
