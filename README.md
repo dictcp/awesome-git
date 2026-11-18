@@ -29,7 +29,6 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [The Git Community Book](https://schacon.github.io/gitbook/) - book built by dozens of people in the Git community
 * [Git Pocket Guide](https://shop.oreilly.com/product/0636920024972) - a short O'Reilly book on Git
 * [Git Real: Code School](https://www.codeschool.com/courses/git-real/) - paid training course from Code School
-* [Git Branching](https://pcottle.github.io/learnGitBranching/) - visual way to learn git branching
 * [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) - tutorial-based book by Manning Publications
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html) - short book about Git
 * [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/) - great series of articles about Git
@@ -48,14 +47,20 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [Intermediate Git](http://www.columbia.edu/~zjn2101/intermediate-git/#1) - lower-level, more structural explanation of git concepts
 * [Fork and Pull Request Workflow](https://github.com/susam/gitpr) - Very nicely explained, simple and crisp way of understanding git fork and pull request workflow.
 * [Git School Dude](https://www.youtube.com/c/DanGitschoolDude) - It's a YouTube channel with a lot of great git videos. It covers everything from the basics to advanced Git topics. 
-* [A Git Choose Your Own Adventure](https://sethrobertson.github.io/GitFixUm/fixup.html) - I never found a git tutorial I didn't understand while doing it. Just sometimes those tutorials didn't line up very well with my actual work. This git help in the form of a choose your own adventure was a life saver when I was first starting out.
-* [On undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm/fixup.html) - fairly comprehensive guide to recovering from what you did not mean to do when using git
 * [Deconstructing a git commit](https://krishnabiradar.com/blogs/deconstructing-a-git-commit/) - A blog explaining how git creates and stores commit histories.
 * [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) - guide about what to do when things go wrong
 * [Use gitk to understand git](https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/) - all important Git terms (commit, commit SHA, branch, merge, rebase) explained using gitk
 * [Git Cherry-pick and its usages](https://www.loginradius.com/blog/async/git-cherry-pick/) - A blog explaining how command git cherry-pick works.
 * [The ultimate guide to <code>.gitignore</code>](https://github.com/groda/the_ultimate_gitignore_guide) All about `.gitignore`.
 * [No Bullsh\*t Git](https://maciejb2k.github.io/no-bs-git/) - free and complete explanation of git internals and the `.git/` directory.
+
+### Games
+* [GitByBit](https://gitbybit.com/)
+* [Git Branching](https://pcottle.github.io/learnGitBranching/) - visual way to learn git branching
+* [git gud](https://github.com/benthayer/git-gud) -  Wanna git gud? Then get git-gud, and git gud at git!
+* [git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
+* [Devlands](https://devlands.com/) - Learn Git comfortably. Use Git confidently.
+* [A Git Choose Your Own Adventure](https://sethrobertson.github.io/GitFixUm/fixup.html) - I never found a git tutorial I didn't understand while doing it. Just sometimes those tutorials didn't line up very well with my actual work. This git help in the form of a choose your own adventure was a life saver when I was first starting out.
 
 ## Style Guide
 *Style guide when you work with git*
