@@ -69,6 +69,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [SourceTree](https://www.sourcetreeapp.com/) - free (in-beer) GUI client. Windows and Mac only
 * [Tower](https://www.git-tower.com/) - a popular non-free Git GUI client. Mac and Windows
 * [GitKraken](https://www.gitkraken.com/) - a cross Git client for Windows, Mac & Linux. Electron based. Free for non-commercial use and paid Pro version is available.
+* [FluxGit](https://fluxgit.com/git-client/) - a cross-platform desktop Git client in public beta for macOS, Windows and Linux, with guarded operations and human approval for Git writes proposed by AI agents over MCP.
 * [Rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
 * [Fork](https://git-fork.com) - An awesome and free git client for macOS and Windows
 * [TortoiseGit](https://tortoisegit.org/) - an easy-to-use Git client on Windows. well-integrated with Windows Explorer.
