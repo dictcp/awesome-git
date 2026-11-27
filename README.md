@@ -153,6 +153,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [lefthook](https://github.com/evilmartians/lefthook) - fast and powerful Git hooks manager for any type of project.
 * [Mookme](https://github.com/Escape-Technologies/mookme) - A simple and easy-to-use, yet powerful and language agnostic git hook for monorepos.
 * [quickhook](https://github.com/dirk/quickhook) - a fast, Unix'y, opinionated Git hook runner.
+* [nimblegate](https://github.com/nimblegate/nimblegate) - Self-hosted git push gateway that checks every push (leaked keys, force pushes, skipped tests) on the server before forwarding it, so a coding agent can't skip it like a local hook.
 * more on https://githooks.com/
 
 ## Tools
